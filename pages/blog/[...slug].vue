@@ -2,8 +2,12 @@
 import Intro from '../../components/intro.vue';
 
 const route = useRoute();
-const allPosts = await useAsyncData(() => queryContent(`/${route.params.slug[0]}`).sort({ date: -1 }).find());
-const blogPost = computed(() => allPosts.data.value.filter((value) => value.intro)[0]);
+const allPosts = await useAsyncData(() =>
+    queryContent(`/${route.params.slug[0]}`).sort({ date: -1 }).find()
+);
+const blogPost = computed(
+    () => allPosts.data.value.filter((value) => value.intro)[0]
+);
 
 const { data: currentPost } = await useAsyncData('page-data', () =>
     queryContent(`/${route.params.slug[0]}/${route.params.slug[1]}`).findOne()
@@ -20,7 +24,7 @@ const formatDate = (date) => {
         year: 'numeric',
         month: 'long',
         day: '2-digit',
-        hour12: false
+        hour12: false,
     }).format(newDate);
 };
 
@@ -32,14 +36,26 @@ onMounted(() => {
 
 <template>
     <Intro img="/img/blog.jpg">
-        <h2 class="mb-3">{{ route.params.slug.length === 1 ? blogPost.category.split('-')[0] : data.title }}</h2>
+        <h2 class="mb-3">
+            {{
+                route.params.slug.length === 1
+                    ? blogPost.category.split('-')[0]
+                    : currentPost.title
+            }}
+        </h2>
         <ul class="list--info list-inline">
             <li class="list-inline-item">
                 <!-- <fa-icon
                     class="mr-1"
                     :icon="['fas', 'calendar-day']"
                 /> -->
-                {{ formatDate(route.params.slug.length === 1 ? blogPost.date : data.date) }}
+                {{
+                    formatDate(
+                        route.params.slug.length === 1
+                            ? blogPost.date
+                            : currentPost.date
+                    )
+                }}
             </li>
             <li class="list-inline-item ml-3">
                 <!-- <fa-icon
@@ -57,7 +73,7 @@ onMounted(() => {
         v-slot="{ list }"
         :path="`/${route.params.slug[0]}`"
         :sort="{
-            date: 1
+            date: 1,
         }"
     >
         <div
@@ -77,7 +93,9 @@ onMounted(() => {
                     />
                 </NuxtLink>
             </div>
-            <div class="panel__content panel__content--no-padding col d-flex flex-column">
+            <div
+                class="panel__content panel__content--no-padding col d-flex flex-column"
+            >
                 <h2>{{ post.title }}</h2>
                 <p>{{ post.excerpt }}</p>
                 <span class="mt-auto line"></span>
@@ -86,15 +104,7 @@ onMounted(() => {
         </div>
     </ContentList>
 
-    <ContentDoc v-else>
-        <!-- <template #default="{ currentPost }"> -->
-        <ContentRenderer
-            :value="currentPost"
-            class="blog-content blog-post-text"
-        />
-        <!-- </template> -->
-    </ContentDoc>
-    <!-- <ContentRenderer
+    <ContentRenderer
         v-else
         :value="currentPost"
     >
@@ -134,7 +144,7 @@ onMounted(() => {
                 </div>
             </div>
         </div>
-    </ContentRenderer> -->
+    </ContentRenderer>
 </template>
 
 <style lang="scss" scoped>
