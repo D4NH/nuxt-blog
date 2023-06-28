@@ -8,51 +8,51 @@ excerpt: Rechstreekse vluchten zijn chill, maar 14 uur in een vliegtuig zitten i
 
 Rechstreekse vluchten zijn chill, maar 14 uur in een vliegtuig zitten is best vermoeiend.
 
-![20151011_040653](https://www.danhnguyen.nl/wp-content/uploads/20151011_040653-1024x576.jpg){.img-fluid}
+![20151011_040653](https://www.danhnguyen.nl/wp-content/uploads/20151011_040653-1024x576.jpg){.img-fluid .rounded-3}
 
-![20151010_184153](https://www.danhnguyen.nl/wp-content/uploads/20151010_184153-e1444588801532-1024x576.jpg){.img-fluid}
+![20151010_184153](https://www.danhnguyen.nl/wp-content/uploads/20151010_184153-e1444588801532-1024x576.jpg){.img-fluid .rounded-3}
 
 Tijdens de vlucht hebben we tweetal gerechten gekregen. Het was 'Ok'. We hebben het dan ook over vliegtuigvoedsel.
 Geland in Jakarta! Snel een SIM gehaald voor mn MiFi en n hapje gegeten.
 
-![image](https://www.danhnguyen.nl/wp-content/uploads/image1-1024x576.jpg){.img-fluid}
+![image](https://www.danhnguyen.nl/wp-content/uploads/image1-1024x576.jpg){.img-fluid .rounded-3}
 
 afb: Ayam Penyet Lombok Hijau
 
-![image](https://www.danhnguyen.nl/wp-content/uploads/image13-1024x576.jpg){.img-fluid}
+![image](https://www.danhnguyen.nl/wp-content/uploads/image13-1024x576.jpg){.img-fluid .rounded-3}
 
 Tijd om de Jakarta Grand Indonesia Mall te verkennen.
 
-![image](https://www.danhnguyen.nl/wp-content/uploads/image5-1024x576.jpg){.img-fluid}
+![image](https://www.danhnguyen.nl/wp-content/uploads/image5-1024x576.jpg){.img-fluid .rounded-3}
 
 Hier vinden we winkels maar ook vooral Japanse restaurants!
 
-![image](https://www.danhnguyen.nl/wp-content/uploads/image3-1024x576.jpg){.img-fluid}
+![image](https://www.danhnguyen.nl/wp-content/uploads/image3-1024x576.jpg){.img-fluid .rounded-3}
 
 en nog een... nou ja mix van italiaans!
 
-![image](https://www.danhnguyen.nl/wp-content/uploads/image4-1024x576.jpg){.img-fluid}
+![image](https://www.danhnguyen.nl/wp-content/uploads/image4-1024x576.jpg){.img-fluid .rounded-3}
 
 en nog een..
 
-![image](https://www.danhnguyen.nl/wp-content/uploads/image32-1024x576.jpg){.img-fluid}
+![image](https://www.danhnguyen.nl/wp-content/uploads/image32-1024x576.jpg){.img-fluid .rounded-3}
 
 Waar the heck zijn de Indonesische restaurants?
 
-![image](https://www.danhnguyen.nl/wp-content/uploads/image31-1024x576.jpg){.img-fluid}
+![image](https://www.danhnguyen.nl/wp-content/uploads/image31-1024x576.jpg){.img-fluid .rounded-3}
 
 Uiteindelijk maar bij de Malaise keuken gegeten xD
 
-![image](https://www.danhnguyen.nl/wp-content/uploads/image8-1024x576.jpg){.img-fluid}
+![image](https://www.danhnguyen.nl/wp-content/uploads/image8-1024x576.jpg){.img-fluid .rounded-3}
 
 Arcade hal met Initial D aaaaaah!
 
-![image](https://www.danhnguyen.nl/wp-content/uploads/image30-1024x576.jpg){.img-fluid}
+![image](https://www.danhnguyen.nl/wp-content/uploads/image30-1024x576.jpg){.img-fluid .rounded-3}
 
-![image](https://www.danhnguyen.nl/wp-content/uploads/image9-1024x576.jpg){.img-fluid}
+![image](https://www.danhnguyen.nl/wp-content/uploads/image9-1024x576.jpg){.img-fluid .rounded-3}
 
 Goed nu avondje chillen at the Skyebar! Wat een gaaf uitzicht!!
 
-![image](https://www.danhnguyen.nl/wp-content/uploads/image12-1024x576.jpg){.img-fluid}
+![image](https://www.danhnguyen.nl/wp-content/uploads/image12-1024x576.jpg){.img-fluid .rounded-3}
 
 Oh en Fook Yew!

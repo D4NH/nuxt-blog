@@ -8,177 +8,177 @@ excerpt: Vandaag naar een nieuwe stad. Dit keer Busan. Te beginnen met een taxi 
 
 Vandaag naar een nieuwe stad. Dit keer Busan.
 
-![](https://www.danhnguyen.nl/wp-content/uploads/92397889-2F74-45A8-B6BD-E765111423D6-700x394.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/92397889-2F74-45A8-B6BD-E765111423D6-700x394.jpg){.img-fluid .rounded-3}
 
 Te beginnen met een taxi naar de bus terminal waar we met de bus naar Busan gaan.
 
-![](https://www.danhnguyen.nl/wp-content/uploads/FA5426F8-D4E1-42C2-9C69-5FF658B7E455-700x394.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/FA5426F8-D4E1-42C2-9C69-5FF658B7E455-700x394.jpg){.img-fluid .rounded-3}
 
 Bus tickets gehaald. Omgerekend ongeveer 10 euro!
 
-![](https://www.danhnguyen.nl/wp-content/uploads/C280572D-53B1-484F-ADAC-4CD2A85D0419-700x394.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/C280572D-53B1-484F-ADAC-4CD2A85D0419-700x394.jpg){.img-fluid .rounded-3}
 
 Even ontbijt scoren, ontbijt in de hotel was alleen een toast met boter..
 
-![](https://www.danhnguyen.nl/wp-content/uploads/1F66EA8D-7DD9-4E28-9919-138F9E07EB3F-700x394.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/1F66EA8D-7DD9-4E28-9919-138F9E07EB3F-700x394.jpg){.img-fluid .rounded-3}
 
 Lekkere broodjes! (Ja ik kon niet wachten, heb al een hap genomen..)
 
-![](https://www.danhnguyen.nl/wp-content/uploads/80E71C96-A606-4808-989F-1D99C90EA113-700x394.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/80E71C96-A606-4808-989F-1D99C90EA113-700x394.jpg){.img-fluid .rounded-3}
 
 Schattige Milk Tea.
 
-![](https://www.danhnguyen.nl/wp-content/uploads/8B11A8BF-BA59-4FD9-93B0-FAEC650F5655-700x394.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/8B11A8BF-BA59-4FD9-93B0-FAEC650F5655-700x394.jpg){.img-fluid .rounded-3}
 
-![](https://www.danhnguyen.nl/wp-content/uploads/8512735D-D5E6-40F8-A42C-124E88B6FF04-700x394.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/8512735D-D5E6-40F8-A42C-124E88B6FF04-700x394.jpg){.img-fluid .rounded-3}
 
 Wachten op de bus.
 
-![](https://www.danhnguyen.nl/wp-content/uploads/AE7FDA15-DF4D-4AE1-9C44-D463962526E7-700x394.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/AE7FDA15-DF4D-4AE1-9C44-D463962526E7-700x394.jpg){.img-fluid .rounded-3}
 
 Yeah, weer lekker met een luxe bus.
 
-![](https://www.danhnguyen.nl/wp-content/uploads/EDD472A7-23EE-45D6-A1E7-E98818560F89-700x394.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/EDD472A7-23EE-45D6-A1E7-E98818560F89-700x394.jpg){.img-fluid .rounded-3}
 
 Hmm... hopelijk gaat het niet regenen. Trip duurt ongeveer 1 uur.
 
-![](https://www.danhnguyen.nl/wp-content/uploads/32B9C6DF-FCA6-42B9-8C02-136ADAC5328F-700x394.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/32B9C6DF-FCA6-42B9-8C02-136ADAC5328F-700x394.jpg){.img-fluid .rounded-3}
 
 Welcome in Busan!
 
-![](https://www.danhnguyen.nl/wp-content/uploads/93F31552-E79E-4073-8712-08A01C1B0913-700x394.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/93F31552-E79E-4073-8712-08A01C1B0913-700x394.jpg){.img-fluid .rounded-3}
 
 Op naar ons Hotel.
 
-![](https://www.danhnguyen.nl/wp-content/uploads/D52C9662-F506-4120-930D-44C4A6B0E737-700x394.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/D52C9662-F506-4120-930D-44C4A6B0E737-700x394.jpg){.img-fluid .rounded-3}
 
-![](https://www.danhnguyen.nl/wp-content/uploads/4D99C1D4-B378-49AB-9EA3-4A25FED3DE70-700x394.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/4D99C1D4-B378-49AB-9EA3-4A25FED3DE70-700x394.jpg){.img-fluid .rounded-3}
 
-![](https://www.danhnguyen.nl/wp-content/uploads/75FC2089-0D59-443C-84D1-6EB78B86BA89-700x394.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/75FC2089-0D59-443C-84D1-6EB78B86BA89-700x394.jpg){.img-fluid .rounded-3}
 
 Damn die trap...
 
-![](https://www.danhnguyen.nl/wp-content/uploads/1D837EEE-B4AE-4DA4-B337-9E974AA34524-700x394.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/1D837EEE-B4AE-4DA4-B337-9E974AA34524-700x394.jpg){.img-fluid .rounded-3}
 
 Even geld pinnen.
 
-![](https://www.danhnguyen.nl/wp-content/uploads/B1D1C95B-CB5F-4D49-A9E4-6E8A616C2822-700x394.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/B1D1C95B-CB5F-4D49-A9E4-6E8A616C2822-700x394.jpg){.img-fluid .rounded-3}
 
-![](https://www.danhnguyen.nl/wp-content/uploads/3F387A72-98BF-435D-9BA1-9B3047E84AE5-700x394.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/3F387A72-98BF-435D-9BA1-9B3047E84AE5-700x394.jpg){.img-fluid .rounded-3}
 
 Verse zongedroogde pepers!
 
-![](https://www.danhnguyen.nl/wp-content/uploads/FBB3273E-2297-4CCB-B777-11BE0A5A3C1C-700x394.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/FBB3273E-2297-4CCB-B777-11BE0A5A3C1C-700x394.jpg){.img-fluid .rounded-3}
 
 Checkin time.
 
-![](https://www.danhnguyen.nl/wp-content/uploads/72B7B57B-3B47-43A5-844D-1338000A4EF6-700x394.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/72B7B57B-3B47-43A5-844D-1338000A4EF6-700x394.jpg){.img-fluid .rounded-3}
 
 Aight, wasmachine alles. Jwz.
 
-![](https://www.danhnguyen.nl/wp-content/uploads/06A4C2D6-A146-4162-93E3-D1875A880AEB-700x394.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/06A4C2D6-A146-4162-93E3-D1875A880AEB-700x394.jpg){.img-fluid .rounded-3}
 
 Goed, op naar de Bujeon Traditional Market. Wat een cool idee, zelf kiezen wat je in een beker ijsblokjes wil.
 
-![](https://www.danhnguyen.nl/wp-content/uploads/081EE562-CDAB-4BE5-BFB8-025885953E46-700x394.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/081EE562-CDAB-4BE5-BFB8-025885953E46-700x394.jpg){.img-fluid .rounded-3}
 
-![](https://www.danhnguyen.nl/wp-content/uploads/FE842C3F-F90E-406D-B112-532D120CFDF7-700x394.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/FE842C3F-F90E-406D-B112-532D120CFDF7-700x394.jpg){.img-fluid .rounded-3}
 
 De market, my favorite place to be. xD
 
-![](https://www.danhnguyen.nl/wp-content/uploads/42B145FF-F029-4B42-BC1C-6EC8C86C304E-700x394.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/42B145FF-F029-4B42-BC1C-6EC8C86C304E-700x394.jpg){.img-fluid .rounded-3}
 
-![](https://www.danhnguyen.nl/wp-content/uploads/CE4588EA-7D81-460F-A8C6-E1DB494C4D6C-700x394.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/CE4588EA-7D81-460F-A8C6-E1DB494C4D6C-700x394.jpg){.img-fluid .rounded-3}
 
-![](https://www.danhnguyen.nl/wp-content/uploads/6C1E26A7-9E52-45DA-BC9B-6EE689A3DD68-700x394.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/6C1E26A7-9E52-45DA-BC9B-6EE689A3DD68-700x394.jpg){.img-fluid .rounded-3}
 
-![](https://www.danhnguyen.nl/wp-content/uploads/A7ABBF59-F1E2-4C94-A09E-DCC02615A478-700x394.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/A7ABBF59-F1E2-4C94-A09E-DCC02615A478-700x394.jpg){.img-fluid .rounded-3}
 
-![](https://www.danhnguyen.nl/wp-content/uploads/388E8C42-16E4-4295-9D96-031D8E66FF92-700x394.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/388E8C42-16E4-4295-9D96-031D8E66FF92-700x394.jpg){.img-fluid .rounded-3}
 
-![](https://www.danhnguyen.nl/wp-content/uploads/432C250D-79C2-42CD-8833-EC96DEBC1DCE-700x394.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/432C250D-79C2-42CD-8833-EC96DEBC1DCE-700x394.jpg){.img-fluid .rounded-3}
 
-![](https://www.danhnguyen.nl/wp-content/uploads/0EFF5CEB-DC5F-468E-BB6C-A6335F0E48A5-700x394.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/0EFF5CEB-DC5F-468E-BB6C-A6335F0E48A5-700x394.jpg){.img-fluid .rounded-3}
 
-![](https://www.danhnguyen.nl/wp-content/uploads/C49BD940-991F-4874-89E1-4A2864B4900F-700x394.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/C49BD940-991F-4874-89E1-4A2864B4900F-700x394.jpg){.img-fluid .rounded-3}
 
 Knoflook?
 
-![](https://www.danhnguyen.nl/wp-content/uploads/F720D535-D558-4AD3-90F8-81A8125440C0-700x394.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/F720D535-D558-4AD3-90F8-81A8125440C0-700x394.jpg){.img-fluid .rounded-3}
 
 Links 'Sikhye', rechts geen idee maar smeeerig!
 
-![](https://www.danhnguyen.nl/wp-content/uploads/E6DA8A98-B964-493C-A931-B1FF3ABB3B8D-700x394.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/E6DA8A98-B964-493C-A931-B1FF3ABB3B8D-700x394.jpg){.img-fluid .rounded-3}
 
 Someone fancy some frogs?
 
-![](https://www.danhnguyen.nl/wp-content/uploads/5C717BD5-C4C3-4538-808A-5AD74E4BC72D-700x394.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/5C717BD5-C4C3-4538-808A-5AD74E4BC72D-700x394.jpg){.img-fluid .rounded-3}
 
 Grijze tofu?
 
-![](https://www.danhnguyen.nl/wp-content/uploads/6638D375-6210-423D-9E75-60D395F3DB33-700x394.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/6638D375-6210-423D-9E75-60D395F3DB33-700x394.jpg){.img-fluid .rounded-3}
 
 Dit is pas een 'krab' salade.
 
-![](https://www.danhnguyen.nl/wp-content/uploads/F770208D-58EC-406A-8B70-C92D2CAD695D-700x394.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/F770208D-58EC-406A-8B70-C92D2CAD695D-700x394.jpg){.img-fluid .rounded-3}
 
 Aight, next stop Shinsegae Shopping mall. Ok eigenlijk food market afdeling.
 
-![](https://www.danhnguyen.nl/wp-content/uploads/C6AD0F41-246C-4C04-9BB9-D6A4D7C46B2A-700x394.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/C6AD0F41-246C-4C04-9BB9-D6A4D7C46B2A-700x394.jpg){.img-fluid .rounded-3}
 
 Yum, fruit ijsjes.
 
-![](https://www.danhnguyen.nl/wp-content/uploads/DB473D7E-2923-475B-B2BF-FE1C348927BF-700x394.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/DB473D7E-2923-475B-B2BF-FE1C348927BF-700x394.jpg){.img-fluid .rounded-3}
 
 Mooie cakes!
 
-![](https://www.danhnguyen.nl/wp-content/uploads/E302E738-AD37-4A0F-9024-76A26FE71182-700x394.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/E302E738-AD37-4A0F-9024-76A26FE71182-700x394.jpg){.img-fluid .rounded-3}
 
-![](https://www.danhnguyen.nl/wp-content/uploads/C72C4F2E-5ECB-47A5-BD24-6B983A27196D-700x394.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/C72C4F2E-5ECB-47A5-BD24-6B983A27196D-700x394.jpg){.img-fluid .rounded-3}
 
 Soort van cheese tarts.
 
-![](https://www.danhnguyen.nl/wp-content/uploads/A24D2277-55AC-4A2A-95EA-ADC645E0F137-700x394.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/A24D2277-55AC-4A2A-95EA-ADC645E0F137-700x394.jpg){.img-fluid .rounded-3}
 
 Stond een mega rij, dus moet lekker zijn.... niet mijn ding xD
 
-![](https://www.danhnguyen.nl/wp-content/uploads/039B1FD0-CD65-409C-975A-05586DE46134-700x394.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/039B1FD0-CD65-409C-975A-05586DE46134-700x394.jpg){.img-fluid .rounded-3}
 
 Yeahhhh food section.
 
-![](https://www.danhnguyen.nl/wp-content/uploads/CA6CF059-434F-4D26-AA97-F9123356C834-700x394.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/CA6CF059-434F-4D26-AA97-F9123356C834-700x394.jpg){.img-fluid .rounded-3}
 
-![](https://www.danhnguyen.nl/wp-content/uploads/215B665A-6202-49D3-9786-8837F1C314E9-700x394.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/215B665A-6202-49D3-9786-8837F1C314E9-700x394.jpg){.img-fluid .rounded-3}
 
 Onze maaltijd, super lekkere wagyu beef. Helaas zo weinig..
 
-![](https://www.danhnguyen.nl/wp-content/uploads/E5BD9BD4-6F53-49A0-9477-03E0E63B2965-700x394.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/E5BD9BD4-6F53-49A0-9477-03E0E63B2965-700x394.jpg){.img-fluid .rounded-3}
 
 Afsluiten met bubble tea!
 
-![](https://www.danhnguyen.nl/wp-content/uploads/6D7D7FBB-68C1-4237-B897-BBF830199BB1-700x394.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/6D7D7FBB-68C1-4237-B897-BBF830199BB1-700x394.jpg){.img-fluid .rounded-3}
 
 Op naar de Gwangalli Beach.
 
-![](https://www.danhnguyen.nl/wp-content/uploads/FD97CE03-6276-4BA6-BC4C-9FFA6BF2D610-700x394.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/FD97CE03-6276-4BA6-BC4C-9FFA6BF2D610-700x394.jpg){.img-fluid .rounded-3}
 
-![](https://www.danhnguyen.nl/wp-content/uploads/9CEF1E9C-3282-4E2F-849E-9EAE2E7C319A-700x394.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/9CEF1E9C-3282-4E2F-849E-9EAE2E7C319A-700x394.jpg){.img-fluid .rounded-3}
 
 Oooh hele straat vol seafood!
 
-![](https://www.danhnguyen.nl/wp-content/uploads/EFDE337D-F324-437B-BDAE-636BE4F4CB4C-700x394.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/EFDE337D-F324-437B-BDAE-636BE4F4CB4C-700x394.jpg){.img-fluid .rounded-3}
 
 Aaah giant lobster en andere rare beesten xD
 
-![](https://www.danhnguyen.nl/wp-content/uploads/C7DDDEED-2A49-4E65-B158-03437EBAE73B-700x394.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/C7DDDEED-2A49-4E65-B158-03437EBAE73B-700x394.jpg){.img-fluid .rounded-3}
 
 Genieten van de uitzicht. Wat een prachtige stad. Misschien wel beter dan Seoul!
 
-![](https://www.danhnguyen.nl/wp-content/uploads/E5B07E1D-87DA-4414-B33D-1BACB4D1CCB6-700x394.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/E5B07E1D-87DA-4414-B33D-1BACB4D1CCB6-700x394.jpg){.img-fluid .rounded-3}
 
-![](https://www.danhnguyen.nl/wp-content/uploads/EB00EECE-04DD-4129-A0B9-3DBC5D46DEA1-700x394.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/EB00EECE-04DD-4129-A0B9-3DBC5D46DEA1-700x394.jpg){.img-fluid .rounded-3}
 
-![](https://www.danhnguyen.nl/wp-content/uploads/62F53BCE-4F1A-462F-835F-2FCC595CDDC8-700x394.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/62F53BCE-4F1A-462F-835F-2FCC595CDDC8-700x394.jpg){.img-fluid .rounded-3}
 
 Afsluiten met gefrituurde inktvis ringen. Heerlijk!
 Nu lekker slapen en ik heb een blaar opgelopen bij mijn voet.. das wat minder. Oh well, goodnight all!

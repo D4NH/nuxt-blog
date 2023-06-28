@@ -8,84 +8,84 @@ excerpt: Nieuwe plek, nieuwe ontdekkingen, we kijken naar verschillende monument
 
 Nieuwe plek, nieuwe ontdekkingen, we kijken naar verschillende monumenten van de stad, waaronder de Gouden Poort, het Paleis van Diocletianus, het beeld van Gregorius van Nin. Daarnaast gaan we op dagexcursie naar de Krka-watervallen.
 
-![](https://www.danhnguyen.nl/wp-content/uploads/20210902_113721.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/20210902_113721.jpg){.img-fluid .rounded-3}
 
 Een van de ferries waarmee we de overtocht van Hvar naar Split hebben gemaakt.
 
-![](https://www.danhnguyen.nl/wp-content/uploads/20210902_121658.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/20210902_121658.jpg){.img-fluid .rounded-3}
 
 Deze terasjes maken je toch helemaal blij?!
 
-![](https://www.danhnguyen.nl/wp-content/uploads/20210902_122801.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/20210902_122801.jpg){.img-fluid .rounded-3}
 
 Ok, we hadden erge trek en zin in iets aziatisch. 10/10 Crispy Pork, Karaage en Kimchi Fried Rice.
 
-![](https://www.danhnguyen.nl/wp-content/uploads/20210902_183850.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/20210902_183850.jpg){.img-fluid .rounded-3}
 
-![](https://www.danhnguyen.nl/wp-content/uploads/20210902_184733.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/20210902_184733.jpg){.img-fluid .rounded-3}
 
-![](https://www.danhnguyen.nl/wp-content/uploads/20210903_113528.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/20210903_113528.jpg){.img-fluid .rounded-3}
 
-![](https://www.danhnguyen.nl/wp-content/uploads/20210903_135044.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/20210903_135044.jpg){.img-fluid .rounded-3}
 
-![](https://www.danhnguyen.nl/wp-content/uploads/20210903_190926.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/20210903_190926.jpg){.img-fluid .rounded-3}
 
-![](https://www.danhnguyen.nl/wp-content/uploads/IMG_0824.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/IMG_0824.jpg){.img-fluid .rounded-3}
 
-![](https://www.danhnguyen.nl/wp-content/uploads/IMG_1063.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/IMG_1063.jpg){.img-fluid .rounded-3}
 
 En weer door, lekker door de straten slenteren van Split.
 
-![](https://www.danhnguyen.nl/wp-content/uploads/20210904_081213.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/20210904_081213.jpg){.img-fluid .rounded-3}
 
-![](https://www.danhnguyen.nl/wp-content/uploads/20210904_081221.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/20210904_081221.jpg){.img-fluid .rounded-3}
 
 Oeh een vismarkt. Niet zo uitgbreid als die in Busan, Zuid-Korea. Maar het voldoet!
 
-![](https://www.danhnguyen.nl/wp-content/uploads/IMG_0888.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/IMG_0888.jpg){.img-fluid .rounded-3}
 
 Lekker vers fruit, gigantische meloenen!
 
-![](https://www.danhnguyen.nl/wp-content/uploads/IMG_0862.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/IMG_0862.jpg){.img-fluid .rounded-3}
 
 Mais op de BBQ, altijd lekker.
 
-![](https://www.danhnguyen.nl/wp-content/uploads/20210904_102535.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/20210904_102535.jpg){.img-fluid .rounded-3}
 
-![](https://www.danhnguyen.nl/wp-content/uploads/20210904_102337.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/20210904_102337.jpg){.img-fluid .rounded-3}
 
-![](https://www.danhnguyen.nl/wp-content/uploads/20210904_110220.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/20210904_110220.jpg){.img-fluid .rounded-3}
 
 Even genieten van het uitzicht.
 
-![](https://www.danhnguyen.nl/wp-content/uploads/20210904_121029.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/20210904_121029.jpg){.img-fluid .rounded-3}
 
 Lekkere snack, Cevapi. Soort van gehakt met een heerlijk broodje erbij.
 
-![](https://www.danhnguyen.nl/wp-content/uploads/20210905_101807.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/20210905_101807.jpg){.img-fluid .rounded-3}
 
 Krka National Park, prachtige omgeving.
 
-![](https://www.danhnguyen.nl/wp-content/uploads/20210905_101540.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/20210905_101540.jpg){.img-fluid .rounded-3}
 
 Super helder water.
 
-![](https://www.danhnguyen.nl/wp-content/uploads/20210905_113328.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/20210905_113328.jpg){.img-fluid .rounded-3}
 
 En gigantische watervallen.
 
-![](https://www.danhnguyen.nl/wp-content/uploads/20210905_140648.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/20210905_140648.jpg){.img-fluid .rounded-3}
 
 Lunch mocht daarbij niet ontbreken. Dit was echt super lekkere pizza en pasta.
 
-![](https://www.danhnguyen.nl/wp-content/uploads/20210903_131110.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/20210903_131110.jpg){.img-fluid .rounded-3}
 
-![](https://www.danhnguyen.nl/wp-content/uploads/20210904_172206.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/20210904_172206.jpg){.img-fluid .rounded-3}
 
-![](https://www.danhnguyen.nl/wp-content/uploads/20210905_185931.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/20210905_185931.jpg){.img-fluid .rounded-3}
 
 Verder natuurlijk verschillende avond maaltijden gehad.
 
-![](https://www.danhnguyen.nl/wp-content/uploads/20210902_190910.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/20210902_190910.jpg){.img-fluid .rounded-3}
 
 De avond heerst, dus we dachten crepe! Wel natuurlijk met mooi uitzicht.

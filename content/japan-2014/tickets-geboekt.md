@@ -11,7 +11,7 @@ Na lang zoeken en vergelijken, hebben we de tickets naar Japan geboekt. We gaan 
 
 Wat we denken te gaan spenderen vind je in afbeelding hieronder. Het is allemaal een schatting, maar zo krijg je in iedergeval een beeld van wat je ongeveer kwijt bent.
 
-![](https://www.danhnguyen.nl/wp-content/uploads/Screen-Shot-2014-07-16-at-10.42.17.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/Screen-Shot-2014-07-16-at-10.42.17.jpg){.img-fluid .rounded-3}
 
 Het is nog steeds moeilijk om te zoeken waar je nu precies wilt zitten in een land waar je nog nooit bent geweest. Tokyo hebben we bijna helemaal uitgezocht waar we allemaal heen gaan. Sightseeing is mooi meegenomen, maar foooooood is nog belangrijker of niet [Powen](https://www.facebook.com/powen.tang)? xD Voor Tokyo hebben we veel tips van [Reddit](http://www.reddit.com/r/japantravel) en [Japan Guide](http://www.japan-guide.com/e/e2164.html) kunnen krijgen.
 

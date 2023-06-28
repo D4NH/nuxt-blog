@@ -6,16 +6,16 @@ category: Helsinki, Rovaniemi, Tampere - Finland
 excerpt: De omgeving verkennen, lekker wandelen door Tampere...
 ---
 
-![](https://www.danhnguyen.nl/wp-content/uploads/20190214_170431-700x394.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/20190214_170431-700x394.jpg){.img-fluid .rounded-3}
 
-![](https://www.danhnguyen.nl/wp-content/uploads/20190215_103644-700x752.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/20190215_103644-700x752.jpg){.img-fluid .rounded-3}
 
-![](https://www.danhnguyen.nl/wp-content/uploads/20190215_112135-700x394.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/20190215_112135-700x394.jpg){.img-fluid .rounded-3}
 
-![](https://www.danhnguyen.nl/wp-content/uploads/20190215_110510-700x394.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/20190215_110510-700x394.jpg){.img-fluid .rounded-3}
 
-![](https://www.danhnguyen.nl/wp-content/uploads/20190215_124221-700x394.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/20190215_124221-700x394.jpg){.img-fluid .rounded-3}
 
-![](https://www.danhnguyen.nl/wp-content/uploads/20190215_124316-700x394.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/20190215_124316-700x394.jpg){.img-fluid .rounded-3}
 
-![](https://www.danhnguyen.nl/wp-content/uploads/20190215_124620-700x394.jpg){.img-fluid}
+![](https://www.danhnguyen.nl/wp-content/uploads/20190215_124620-700x394.jpg){.img-fluid .rounded-3}

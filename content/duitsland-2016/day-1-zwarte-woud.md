@@ -9,15 +9,15 @@ excerpt: Rond 8.00 vertrokken wij naar het oosten van het land. We hadden afgesp
 
 Rond 8.00 vertrokken wij naar het oosten van het land. We hadden afgesproken om elkaar te ontmoeten bij de laatste tankstation voor de grens.
 
-![Screen Shot 2016-08-03 at 10.17.47](https://www.danhnguyen.nl/wp-content/uploads/Screen-Shot-2016-08-03-at-10.17.47-e1470212366661.png)
+![Screen Shot 2016-08-03 at 10.17.47](https://www.danhnguyen.nl/wp-content/uploads/Screen-Shot-2016-08-03-at-10.17.47-e1470212366661.png){.img-fluid .rounded-3}
 
 Alright, tijd om de grens over te steken en richting het zuiden van Duitsland te rijden.
 
-![20160725_134546](https://www.danhnguyen.nl/wp-content/uploads/20160725_134546-e1470215146933.jpg){.img-fluid}
+![20160725_134546](https://www.danhnguyen.nl/wp-content/uploads/20160725_134546-e1470215146933.jpg){.img-fluid .rounded-3}
 
 Ondertussen nog even een korte stop gemaakt om lekker te lunchen.
 
-![20160725_132105](https://www.danhnguyen.nl/wp-content/uploads/20160725_132105-e1470212514703.jpg){.img-fluid}
+![20160725_132105](https://www.danhnguyen.nl/wp-content/uploads/20160725_132105-e1470212514703.jpg){.img-fluid .rounded-3}
 
 En we rijden weer!
 
@@ -25,16 +25,16 @@ En we rijden weer!
 
 Het weer viel op de heenweg erg tegen. Veel regen, maar aangekomen op onze bestemming scheen lekker de zon! Bad Wildbad im Schwarzwald, jawohl!
 
-![20160725_161319](https://www.danhnguyen.nl/wp-content/uploads/20160725_161319-e1470213576773.jpg){.img-fluid}
+![20160725_161319](https://www.danhnguyen.nl/wp-content/uploads/20160725_161319-e1470213576773.jpg){.img-fluid .rounded-3}
 
 Tent opgezet, maar o-m-g het was warm!
 
-![20160725_175249](https://www.danhnguyen.nl/wp-content/uploads/20160725_175249-e1470213649194.jpg){.img-fluid}
+![20160725_175249](https://www.danhnguyen.nl/wp-content/uploads/20160725_175249-e1470213649194.jpg){.img-fluid .rounded-3}
 
 Alright, time for food!
 
-![20160725_193324](https://www.danhnguyen.nl/wp-content/uploads/20160725_193324-e1470215367698.jpg){.img-fluid}
+![20160725_193324](https://www.danhnguyen.nl/wp-content/uploads/20160725_193324-e1470215367698.jpg){.img-fluid .rounded-3}
 
-![IMG_2435](https://www.danhnguyen.nl/wp-content/uploads/IMG_2435-e1470215025424.jpg){.img-fluid}
+![IMG_2435](https://www.danhnguyen.nl/wp-content/uploads/IMG_2435-e1470215025424.jpg){.img-fluid .rounded-3}
 
 De rest van de avond lekker gechillt.
