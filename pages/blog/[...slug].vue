@@ -14,17 +14,18 @@ const { data: currentPost } = await useAsyncData('page-data', () =>
 );
 
 const [prev, next] = await queryContent()
-    .only(['_path', 'title', 'excerpt'])
+    .only(['_path', '_dir', 'title', 'excerpt', 'category', 'date'])
     .sort({ date: 1 })
     .findSurround(`/${route.params.slug[0]}/${route.params.slug[1]}`);
 
 const formatDate = (date) => {
+    if (!date) return;
     const newDate = new Date(date);
     return new Intl.DateTimeFormat('nl-NL', {
         year: 'numeric',
         month: 'long',
         day: '2-digit',
-        hour12: false,
+        hour12: false
     }).format(newDate);
 };
 
@@ -36,145 +37,239 @@ onMounted(() => {
 
 <template>
     <Intro img="/img/blog.jpg">
-        <h2 class="mb-3">
-            {{
-                route.params.slug.length === 1
-                    ? blogPost.category.split('-')[0]
-                    : currentPost.title
-            }}
-        </h2>
-        <ul class="list--info list-inline">
+        <h1 class="fs-4">Danh Nguyen</h1>
+        <p>
+            Frontend Developer bij
+            <NuxtLink to="https://www.zilverenkruis.nl/">
+                Zilveren Kruis
+            </NuxtLink>
+        </p>
+
+        <ul
+            class="list--info list-inline text-center"
+            :class="[route.params.slug.length === 1 ? 'my-4' : 'mb-0 mt-4']"
+        >
             <li class="list-inline-item">
-                <!-- <fa-icon
-                    class="mr-1"
+                <fa-icon
+                    class="me-1"
                     :icon="['fas', 'calendar-day']"
-                /> -->
+                />
                 {{
                     formatDate(
                         route.params.slug.length === 1
-                            ? blogPost.date
-                            : currentPost.date
+                            ? blogPost?.date
+                            : currentPost?.date
                     )
                 }}
             </li>
-            <li class="list-inline-item ml-3">
-                <!-- <fa-icon
-                    class="mr-1"
+            <li class="list-inline-item px-2">
+                <fa-icon
+                    class="me-1"
                     :icon="['fas', 'map-marker-alt']"
-                /> -->
-                {{ blogPost.category.split('-')[1] }}
+                />
+                <NuxtLink :to="`/blog/${route.params.slug[0]}`">
+                    {{ blogPost.category.split('-')[1] }}
+                </NuxtLink>
             </li>
         </ul>
-        <p v-if="route.params.slug.length === 1">{{ blogPost.intro }}</p>
+
+        <p
+            class="w-75 mx-auto mb-0"
+            v-if="route.params.slug.length === 1"
+        >
+            {{ blogPost.intro }}
+        </p>
     </Intro>
 
-    <ContentList
-        v-if="route.params.slug.length === 1"
-        v-slot="{ list }"
-        :path="`/${route.params.slug[0]}`"
-        :sort="{
-            date: 1,
-        }"
-    >
-        <div
-            v-for="post in list"
-            :key="post._path"
-            class="row mb-5"
-        >
-            <div class="panel__img col-sm-4">
-                <NuxtLink
-                    class="nav-link"
-                    :to="`/blog${post._path}`"
-                >
-                    <img
-                        :src="post.image"
-                        class="post-image img-fluid"
-                        alt=""
-                    />
-                </NuxtLink>
-            </div>
-            <div
-                class="panel__content panel__content--no-padding col d-flex flex-column"
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <h2 class="text-center mb-5 fs-5 fw-medium">
+                {{
+                    route.params.slug.length === 1
+                        ? blogPost.category
+                        : currentPost?.title
+                }}
+            </h2>
+
+            <ContentList
+                v-if="route.params.slug.length === 1"
+                v-slot="{ list }"
+                :path="`/${route.params.slug[0]}`"
+                :sort="{
+                    date: 1
+                }"
             >
-                <h2>{{ post.title }}</h2>
-                <p>{{ post.excerpt }}</p>
-                <span class="mt-auto line"></span>
-                <small>{{ formatDate(post.date) }}</small>
-            </div>
-        </div>
-    </ContentList>
+                <div
+                    v-for="post in list"
+                    :key="post._path"
+                    class="row mb-5"
+                >
+                    <div class="panel__img col-sm-4">
+                        <NuxtLink :to="`/blog${post._path}`">
+                            <NuxtImg
+                                format="webp"
+                                loading="lazy"
+                                :src="post.image"
+                                class="post-image img-fluid rounded-3"
+                                alt=""
+                            />
+                        </NuxtLink>
+                    </div>
+                    <div
+                        class="panel__content panel__content--no-padding col d-flex flex-column"
+                    >
+                        <NuxtLink :to="`/blog${post._path}`">
+                            <h3 class="fs-5 post-title">{{ post.title }}</h3>
+                        </NuxtLink>
+                        <p>{{ post.excerpt }}</p>
+                        <span class="mt-auto line"></span>
+                        <p class="post-date mb-0 fw-bold text-body-secondary">
+                            <fa-icon
+                                class="me-1"
+                                :icon="['far', 'calendar']"
+                            />
+                            {{ formatDate(post.date) }}
+                        </p>
+                    </div>
+                </div>
+            </ContentList>
 
-    <ContentRenderer
-        v-else
-        :value="currentPost"
-    >
-        <div class="row">
-            <ContentRendererMarkdown
-                class="col blog-content"
+            <ContentRenderer
+                v-else
                 :value="currentPost"
-                :components="components"
-            />
-        </div>
+            >
+                <!-- <div class="row"> -->
+                <ContentRendererMarkdown
+                    class="blog-content"
+                    :value="currentPost"
+                />
+                <!-- </div> -->
 
-        <div class="row">
-            <div class="col text-right">
-                <div
-                    v-if="prev"
-                    class="prev"
-                >
-                    <strong>Vorige</strong><br />
-                    <NuxtLink :to="`/blog${prev._path}`">
-                        {{ prev.title }}
-                    </NuxtLink>
-                    <br />
-                    <small>{{ prev.excerpt }}</small>
+                <hr class="my-5" />
+
+                <div class="row mb-5">
+                    <div class="col">
+                        <div v-if="prev">
+                            <h4 class="fs-6 fw-bold">Vorige</h4>
+
+                            <NuxtLink :to="`/blog${prev._path}`">
+                                <h3 class="fs-5 post-title">
+                                    {{ prev.title }}
+                                </h3>
+                            </NuxtLink>
+
+                            <p
+                                class="post-category fw-bold text-uppercase text-body-secondary my-2"
+                            >
+                                <fa-icon
+                                    class="mr-1"
+                                    :icon="['fas', 'map-marker-alt']"
+                                />
+                                {{ prev.category }}
+                            </p>
+                            <p class="post-intro mt-2">{{ prev.excerpt }}</p>
+
+                            <span class="mt-auto line" />
+                            <p
+                                class="post-date mb-0 fw-bold text-body-secondary"
+                            >
+                                <fa-icon
+                                    class="mr-1"
+                                    :icon="['far', 'calendar']"
+                                />
+                                {{ formatDate(prev.date) }}
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div v-if="next">
+                            <h4 class="fs-6 fw-bold">Volgende</h4>
+
+                            <NuxtLink :to="`/blog${next._path}`">
+                                <h3 class="fs-5 post-title">
+                                    {{ next.title }}
+                                </h3>
+                            </NuxtLink>
+
+                            <p
+                                class="post-category fw-bold text-uppercase text-body-secondary my-2"
+                            >
+                                <fa-icon
+                                    class="mr-1"
+                                    :icon="['fas', 'map-marker-alt']"
+                                />
+                                {{ next.category }}
+                            </p>
+                            <p class="post-intro mt-2">{{ next.excerpt }}</p>
+
+                            <span class="mt-auto line" />
+                            <p
+                                class="post-date mb-0 fw-bold text-body-secondary"
+                            >
+                                <fa-icon
+                                    class="mr-1"
+                                    :icon="['far', 'calendar']"
+                                />
+                                {{ formatDate(next.date) }}
+                            </p>
+                        </div>
+                    </div>
                 </div>
-            </div>
-            <div class="col">
-                <div
-                    v-if="next"
-                    class="next"
-                >
-                    <strong>Volgende</strong><br />
-                    <NuxtLink :to="`/blog${next._path}`">
-                        {{ next.title }}
-                    </NuxtLink>
-                    <br />
-                    <small>{{ next.excerpt }}</small>
-                </div>
-            </div>
+            </ContentRenderer>
         </div>
-    </ContentRenderer>
+    </div>
 </template>
 
 <style lang="scss" scoped>
-.blog-content {
+.post {
+    &-title {
+        color: #88c441;
+    }
+
+    &-date {
+        font-size: 0.65rem;
+        // letter-spacing: 0.5px;
+        text-transform: uppercase;
+        // font-weight: bold;
+    }
+}
+
+.nav {
+    &-category {
+        font-size: 0.813rem;
+        color: grey;
+    }
+    &-excerpt {
+        font-size: 0.875em;
+    }
+
+    &-excerpt {
+        -webkit-line-clamp: 3;
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+    }
+}
+
+:deep(.blog-content) {
     text-align: center;
 
-    :deep() {
-        p {
-            max-width: 700px;
-            margin: 15px auto;
-        }
+    p {
+        max-width: 700px;
+        margin: 15px auto;
+    }
 
+    img,
+    .post-image {
+        object-fit: contain;
+        margin: 15px auto 0;
+    }
+
+    @media screen and (max-width: 640px) {
+        p,
         img,
         .post-image {
-            max-width: 700px;
-            height: auto;
-            object-fit: contain;
-            margin: 15px auto 0;
-
-            // border: 1px solid #ccc;
-            // border-radius: 0.3rem;
-            // padding: 5px;
-        }
-
-        @media screen and (max-width: 640px) {
-            p,
-            img,
-            .post-image {
-                width: 100%;
-            }
+            width: 100%;
         }
     }
 }
