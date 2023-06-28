@@ -1,8 +1,29 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
+    app: {
+        baseURL: '/'
+    },
     devtools: { enabled: false },
-    css: ['@fortawesome/fontawesome-svg-core/styles.css', '~/assets/styles/app.scss'],
-    modules: ['@nuxt/image', '@nuxt/content'],
+    css: [
+        '@fortawesome/fontawesome-svg-core/styles.css',
+        '~/assets/styles/app.scss'
+    ],
+    modules: [
+        '@nuxt/image',
+        '@nuxt/content',
+        [
+            '@nuxtjs/google-fonts',
+            {
+                families: {
+                    Figtree: {
+                        wght: [400, 600, 700]
+                    },
+                    download: true,
+                    inject: true
+                }
+            }
+        ]
+    ],
     ssr: true,
     experimental: {
         payloadExtraction: false
@@ -30,5 +51,14 @@ export default defineNuxtConfig({
                 ]
             ]
         }
+    },
+    build: {
+        transpile: [
+            '@fortawesome/vue-fontawesome',
+            '@fortawesome/fontawesome-svg-core',
+            '@fortawesome/free-brands-svg-icons',
+            '@fortawesome/free-solid-svg-icons',
+            '@fortawesome/free-regular-svg-icons'
+        ]
     }
 });

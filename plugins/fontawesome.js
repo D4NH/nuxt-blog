@@ -1,6 +1,10 @@
 import { library, config } from '@fortawesome/fontawesome-svg-core';
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome';
-import { faTwitterSquare, faTwitch, faGithubSquare } from '@fortawesome/free-brands-svg-icons';
+import {
+    faTwitterSquare,
+    faTwitch,
+    faGithubSquare
+} from '@fortawesome/free-brands-svg-icons';
 import {
     faBirthdayCake,
     faMapMarkerAlt,
@@ -8,7 +12,7 @@ import {
     faCalendarDay,
     faBars
 } from '@fortawesome/free-solid-svg-icons';
-// import { faCalendar } from '@fortawesome/free-regular-svg-icons';
+import { faCalendar } from '@fortawesome/free-regular-svg-icons';
 
 library.add(
     faBirthdayCake,
@@ -16,7 +20,7 @@ library.add(
     faEnvelopeOpenText,
     faCalendarDay,
     faBars,
-    // faCalendar,
+    faCalendar,
     faTwitterSquare,
     faTwitch,
     faGithubSquare

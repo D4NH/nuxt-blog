@@ -4,6 +4,7 @@
     "scripts": {
         "build": "nuxt build",
         "dev": "nuxt dev",
+        "deploy": "nuxt generate && touch .output/public/.nojekyll && gh-pages --dotfiles -d .output/public -b master --repo https://github.com/D4NH/d4nh.github.io.git",
         "generate": "nuxt generate",
         "preview": "nuxt preview",
         "postinstall": "nuxt prepare"
@@ -12,6 +13,7 @@
         "@nuxt/content": "^2.7.0",
         "@nuxt/devtools": "latest",
         "@nuxt/image": "^1.0.0-rc.1",
+        "@nuxtjs/google-fonts": "^3.0.1",
         "@types/node": "^18",
         "@typescript-eslint/eslint-plugin": "^5.60.0",
         "@typescript-eslint/parser": "^5.60.0",
@@ -20,13 +22,16 @@
         "eslint-config-prettier": "^8.8.0",
         "eslint-plugin-prettier": "^4.2.1",
         "eslint-plugin-vue": "^9.15.0",
+        "gh-pages": "^5.0.0",
         "nuxt": "^3.5.2",
         "sass": "^1.63.6",
-        "vue-eslint-parser": "^9.3.1"
+        "vue-eslint-parser": "^9.3.1",
+        "vue-gtag-next": "^1.14.0"
     },
     "dependencies": {
         "@fortawesome/fontawesome-svg-core": "^6.4.0",
         "@fortawesome/free-brands-svg-icons": "^6.4.0",
+        "@fortawesome/free-regular-svg-icons": "^6.4.0",
         "@fortawesome/free-solid-svg-icons": "^6.4.0",
         "@fortawesome/vue-fontawesome": "^3.0.3",
         "bootstrap": "^5.3.0"
