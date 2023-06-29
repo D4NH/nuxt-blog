@@ -1,12 +1,4 @@
-<script setup lang="ts">
-interface Props {
-    img?: string;
-}
-
-withDefaults(defineProps<Props>(), {
-    img: '/img/blog.jpg'
-});
-</script>
+<script setup lang="ts"></script>
 
 <template>
     <div class="row justify-content-center mt-2 mb-5">
@@ -20,6 +12,14 @@ withDefaults(defineProps<Props>(), {
                         src="/img/profile.jpg"
                     />
                 </div>
+
+                <h1 class="fs-4">Danh Nguyen</h1>
+                <p>
+                    Frontend Developer bij
+                    <NuxtLink to="https://www.zilverenkruis.nl/">
+                        Zilveren Kruis
+                    </NuxtLink>
+                </p>
 
                 <slot></slot>
             </div>

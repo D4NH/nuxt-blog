@@ -2,26 +2,27 @@
 import Intro from '../../components/intro.vue';
 
 const route = useRoute();
-const allPosts = await useAsyncData('posts', () =>
+
+const { data: allPosts } = await useAsyncData('posts', async () =>
     queryContent(`/${route.params.slug[0]}`).sort({ date: -1 }).find()
 );
-const { data: currentPost } = await useAsyncData('current-post', () =>
+const { data: currentPost } = await useAsyncData('current-post', async () =>
     queryContent(`/${route.params.slug[0]}/${route.params.slug[1]}`).findOne()
 );
 const [prev, next] = await queryContent()
-    .only(['_path', '_dir', 'title', 'excerpt', 'category', 'date'])
+    .only(['_path', 'title', 'excerpt', 'category', 'date'])
     .sort({ date: 1 })
     .findSurround(`/${route.params.slug[0]}/${route.params.slug[1]}`);
 
 const blogPost = computed(
-    () => allPosts.data.value.filter((value) => value.intro)[0]
+    () => allPosts.value.filter((value) => value.intro)[0]
 );
 const pageTitle = computed(() => {
     const title =
         route.params.slug.length === 1
-            ? blogPost.value?.category
-            : `${currentPost.value?.title} | ${
-                  blogPost.value?.category.split('-')[1]
+            ? blogPost.value.category
+            : `${currentPost.value.title} | ${
+                  blogPost.value.category.split('-')[1]
               }`;
 
     useHead({
@@ -44,15 +45,7 @@ const formatDate = (date) => {
 </script>
 
 <template>
-    <Intro img="/img/blog.jpg">
-        <h1 class="fs-4">Danh Nguyen</h1>
-        <p>
-            Frontend Developer bij
-            <NuxtLink to="https://www.zilverenkruis.nl/">
-                Zilveren Kruis
-            </NuxtLink>
-        </p>
-
+    <Intro>
         <ul
             class="list--info list-inline text-center"
             :class="[route.params.slug.length === 1 ? 'my-4' : 'mb-0 mt-4']"
