@@ -8,7 +8,15 @@ import Intro from './components/intro.vue';
     <div class="container">
         <Header />
 
-        <Intro />
+        <Intro>
+            <h1 class="fs-4">Danh Nguyen</h1>
+            <p>
+                Frontend Developer bij
+                <NuxtLink to="https://www.zilverenkruis.nl/">
+                    Zilveren Kruis
+                </NuxtLink>
+            </p>
+        </Intro>
 
         <div class="row justify-content-center">
             <div class="col-md-8 text-center">

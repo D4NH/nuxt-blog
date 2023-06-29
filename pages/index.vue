@@ -25,6 +25,14 @@ useHead({
 
 <template>
     <Intro>
+        <h1 class="fs-4">Danh Nguyen</h1>
+        <p>
+            Frontend Developer bij
+            <NuxtLink to="https://www.zilverenkruis.nl/">
+                Zilveren Kruis
+            </NuxtLink>
+        </p>
+
         <ul class="list--info list-inline my-4">
             <li class="list-inline-item">
                 <fa-icon

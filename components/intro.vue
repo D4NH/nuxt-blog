@@ -13,14 +13,6 @@
                     />
                 </div>
 
-                <h1 class="fs-4">Danh Nguyen</h1>
-                <p>
-                    Frontend Developer bij
-                    <NuxtLink to="https://www.zilverenkruis.nl/">
-                        Zilveren Kruis
-                    </NuxtLink>
-                </p>
-
                 <slot></slot>
             </div>
         </div>

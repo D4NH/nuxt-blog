@@ -46,6 +46,14 @@ const formatDate = (date) => {
 
 <template>
     <Intro>
+        <h1 class="fs-4">Danh Nguyen</h1>
+        <p>
+            Frontend Developer bij
+            <NuxtLink to="https://www.zilverenkruis.nl/">
+                Zilveren Kruis
+            </NuxtLink>
+        </p>
+
         <ul
             class="list--info list-inline text-center"
             :class="[route.params.slug.length === 1 ? 'my-4' : 'mb-0 mt-4']"
@@ -257,7 +265,6 @@ const formatDate = (date) => {
     img,
     .post-image {
         object-fit: contain;
-        margin: 15px auto 0;
     }
 
     @media screen and (max-width: 640px) {
