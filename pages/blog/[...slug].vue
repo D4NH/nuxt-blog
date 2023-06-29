@@ -5,14 +5,17 @@ const route = useRoute();
 const allPosts = await useAsyncData('posts', () =>
     queryContent(`/${route.params.slug[0]}`).sort({ date: -1 }).find()
 );
-const blogPost = computed(
-    () => allPosts.data.value.filter((value) => value.intro)[0]
-);
-
 const { data: currentPost } = await useAsyncData('current-post', () =>
     queryContent(`/${route.params.slug[0]}/${route.params.slug[1]}`).findOne()
 );
+const [prev, next] = await queryContent()
+    .only(['_path', '_dir', 'title', 'excerpt', 'category', 'date'])
+    .sort({ date: 1 })
+    .findSurround(`/${route.params.slug[0]}/${route.params.slug[1]}`);
 
+const blogPost = computed(
+    () => allPosts.data.value.filter((value) => value.intro)[0]
+);
 const pageTitle = computed(() => {
     const title =
         route.params.slug.length === 1
@@ -27,11 +30,6 @@ const pageTitle = computed(() => {
 
     return title;
 });
-
-const [prev, next] = await queryContent()
-    .only(['_path', '_dir', 'title', 'excerpt', 'category', 'date'])
-    .sort({ date: 1 })
-    .findSurround(`/${route.params.slug[0]}/${route.params.slug[1]}`);
 
 const formatDate = (date) => {
     if (!date) return;
@@ -144,12 +142,10 @@ const formatDate = (date) => {
                 v-else
                 :value="currentPost"
             >
-                <!-- <div class="row"> -->
                 <ContentRendererMarkdown
                     class="blog-content"
                     :value="currentPost"
                 />
-                <!-- </div> -->
 
                 <hr class="my-5" />
 
