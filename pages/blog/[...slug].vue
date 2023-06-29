@@ -2,16 +2,31 @@
 import Intro from '../../components/intro.vue';
 
 const route = useRoute();
-const allPosts = await useAsyncData(() =>
+const allPosts = await useAsyncData('posts', () =>
     queryContent(`/${route.params.slug[0]}`).sort({ date: -1 }).find()
 );
 const blogPost = computed(
     () => allPosts.data.value.filter((value) => value.intro)[0]
 );
 
-const { data: currentPost } = await useAsyncData('page-data', () =>
+const { data: currentPost } = await useAsyncData('current-post', () =>
     queryContent(`/${route.params.slug[0]}/${route.params.slug[1]}`).findOne()
 );
+
+const pageTitle = computed(() => {
+    const title =
+        route.params.slug.length === 1
+            ? blogPost.value?.category
+            : `${currentPost.value?.title} | ${
+                  blogPost.value?.category.split('-')[1]
+              }`;
+
+    useHead({
+        title: `${title} | Danh Nguyen`
+    });
+
+    return title;
+});
 
 const [prev, next] = await queryContent()
     .only(['_path', '_dir', 'title', 'excerpt', 'category', 'date'])
@@ -28,11 +43,6 @@ const formatDate = (date) => {
         hour12: false
     }).format(newDate);
 };
-
-onMounted(() => {
-    // console.log('route', route.params.slug);
-    // console.log('blogPost', blogPost.value);
-});
 </script>
 
 <template>
@@ -84,11 +94,7 @@ onMounted(() => {
     <div class="row justify-content-center">
         <div class="col-md-8">
             <h2 class="text-center mb-5 fs-5 fw-medium">
-                {{
-                    route.params.slug.length === 1
-                        ? blogPost.category
-                        : currentPost?.title
-                }}
+                {{ pageTitle.split('|')[0] }}
             </h2>
 
             <ContentList
@@ -110,7 +116,7 @@ onMounted(() => {
                                 format="webp"
                                 loading="lazy"
                                 :src="post.image"
-                                class="post-image img-fluid rounded-3"
+                                class="post-image shadow-sm img-fluid rounded-3"
                                 alt=""
                             />
                         </NuxtLink>
