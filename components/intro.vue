@@ -16,7 +16,7 @@ withDefaults(defineProps<Props>(), {
                     <NuxtImg
                         format="webp"
                         loading="lazy"
-                        class="avatar"
+                        class="avatar shadow-sm mb-3"
                         src="/img/profile.jpg"
                     />
                 </div>
@@ -29,7 +29,6 @@ withDefaults(defineProps<Props>(), {
 
 <style lang="scss" scoped>
 .avatar {
-    border: 5px solid white;
     object-fit: cover;
     border-radius: 50%;
     height: 100px;

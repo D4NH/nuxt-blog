@@ -11,6 +11,7 @@ export default defineNuxtConfig({
     modules: [
         '@nuxt/image',
         '@nuxt/content',
+        'nuxt-gtag',
         [
             '@nuxtjs/google-fonts',
             {
@@ -24,6 +25,9 @@ export default defineNuxtConfig({
             }
         ]
     ],
+    gtag: {
+        id: 'G-0MY09VW5T8'
+    },
     ssr: true,
     experimental: {
         payloadExtraction: false

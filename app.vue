@@ -66,7 +66,6 @@ a {
         object-fit: cover;
         height: 200px;
         width: 100%;
-        margin-bottom: 10px;
 
         /* @media screen and (max-width: 640px) {
         margin-bottom: 15px;

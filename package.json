@@ -24,9 +24,9 @@
         "eslint-plugin-vue": "^9.15.0",
         "gh-pages": "^5.0.0",
         "nuxt": "^3.5.2",
+        "nuxt-gtag": "^0.5.7",
         "sass": "^1.63.6",
-        "vue-eslint-parser": "^9.3.1",
-        "vue-gtag-next": "^1.14.0"
+        "vue-eslint-parser": "^9.3.1"
     },
     "dependencies": {
         "@fortawesome/fontawesome-svg-core": "^6.4.0",

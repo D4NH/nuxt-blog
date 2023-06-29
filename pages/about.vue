@@ -1,5 +1,9 @@
 <script setup>
 import Intro from '../components/intro.vue';
+
+useHead({
+    title: 'Over mij | Danh Nguyen'
+});
 </script>
 
 <template>

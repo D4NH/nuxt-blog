@@ -17,6 +17,10 @@ const formatDate = (date) => {
         hour12: false
     }).format(newDate);
 };
+
+useHead({
+    title: 'Danh Nguyen | Frontend Developer'
+});
 </script>
 
 <template>
@@ -78,7 +82,7 @@ const formatDate = (date) => {
                                     format="webp"
                                     loading="lazy"
                                     :src="post.image"
-                                    class="post-image img-fluid rounded-3"
+                                    class="post-image shadow-sm img-fluid rounded-3 mb-3"
                                     alt=""
                                 />
                                 <h3 class="fs-5 post-title">
