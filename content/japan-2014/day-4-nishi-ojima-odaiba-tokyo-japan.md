@@ -44,7 +44,9 @@ Alles is compact, zelfs de auto's.
 
 Tijd voor Odaiba!
 
-![DSC03221](https://www.danhnguyen.nl/wp-content/uploads/DSC03221-575x1024.jpg){.img-fluid .rounded-3} ![DSC03212](https://www.danhnguyen.nl/wp-content/uploads/DSC03212-575x1024.jpg){.img-fluid .rounded-3}
+![DSC03221](https://www.danhnguyen.nl/wp-content/uploads/DSC03221-575x1024.jpg){.img-fluid .rounded-3}
+
+![DSC03212](https://www.danhnguyen.nl/wp-content/uploads/DSC03212-575x1024.jpg){.img-fluid .rounded-3}
 
 Een full-size 32 meter hoge Gundam Statue, super awesome!
 

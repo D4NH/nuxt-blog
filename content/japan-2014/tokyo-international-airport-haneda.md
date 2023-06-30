@@ -14,7 +14,9 @@ Na een 17-urige vlucht waarbij we op Dubai hebben overgestapt, zijn we veilig en
 
 Ow en Powen zag iets anders dan normaal toen hij de WC ging opzoeken.
 
-![2014-09-14 07.54.50](https://www.danhnguyen.nl/wp-content/uploads/2014-09-14-07.54.50.jpg){.img-fluid .rounded-3} ![2014-09-14 14.12.32](https://www.danhnguyen.nl/wp-content/uploads/2014-09-14-14.12.32.jpg){.img-fluid .rounded-3}
+![2014-09-14 07.54.50](https://www.danhnguyen.nl/wp-content/uploads/2014-09-14-07.54.50.jpg){.img-fluid .rounded-3}
+
+![2014-09-14 14.12.32](https://www.danhnguyen.nl/wp-content/uploads/2014-09-14-14.12.32.jpg){.img-fluid .rounded-3}
 
 Maar het eten dat we hebben gekregen tijdens onze vlucht was prima te doen.
 

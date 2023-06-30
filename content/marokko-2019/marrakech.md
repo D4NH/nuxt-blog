@@ -14,7 +14,9 @@ Even wachten voor onze kamer onder het genot van Marokaanse thee.
 Lekker de stad verkennen.
 
 ![](https://www.danhnguyen.nl/wp-content/uploads/Screenshot_2020-05-25_at_16.37.11.a879de3.b5e55bd6776c843bdbf3c5a39bbe46ea.png){.img-fluid .rounded-3}
+
 ![](https://www.danhnguyen.nl/wp-content/uploads/Screenshot_2020-05-25_at_16.37.02.d82ef03.9f4231e10a9641d3d5c51d0e6be59cf3.png){.img-fluid .rounded-3}
+
 ![](https://www.danhnguyen.nl/wp-content/uploads/Screenshot_2020-05-25_at_16.36.53.45c9ed1.f233a2bb3cab2bdef9b0d4422a23b824.png){.img-fluid .rounded-3}
 
 Back to the hotel!

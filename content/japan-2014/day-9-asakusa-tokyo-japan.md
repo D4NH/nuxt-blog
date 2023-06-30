@@ -26,7 +26,7 @@ Coole lampionnen.
 
 ![DSC03682](https://www.danhnguyen.nl/wp-content/uploads/DSC03682-1024x575.jpg){.img-fluid .rounded-3}
 
-Ice cre err , ice with flavor!
+Ice cre err, ice with flavor!
 
 ![DSC03690](https://www.danhnguyen.nl/wp-content/uploads/DSC03690-1024x575.jpg){.img-fluid .rounded-3}
 

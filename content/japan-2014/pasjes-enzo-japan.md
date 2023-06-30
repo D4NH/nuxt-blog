@@ -6,7 +6,7 @@ category: Tokyo, Kyoto, Osaka - Japan
 excerpt: Onze JR Passes zijn ook binnen! Met de JR Pass kun je gebruik maken van verschillende treinen binnen in Japan. We hebben deze vooral...
 ---
 
-![10492106_776790895715224_3790367357014293084_n](https://www.danhnguyen.nl/wp-content/uploads/10492106_776790895715224_3790367357014293084_n.jpg){.img-fluid .rounded-3}
+![](https://www.danhnguyen.nl/wp-content/uploads/10492106_776790895715224_3790367357014293084_n.jpg){.img-fluid .rounded-3}
 
 Onze JR Passes zijn ook binnen! Met de JR Pass kun je gebruik maken van verschillende treinen binnen in Japan. We hebben deze vooral gekocht om tussen Tokyo, Kyoto en Osaka te reizen. Binnen de steden gaan we gebruik maken van een [Suica](http://www.jreast.co.jp/e/pass/suica.html) of [Pasmo](http://www.pasmo.co.jp/en/) card, soort van OV-chipkaart. Deze is te gebruiken voor het lokale OV binnen de steden zelf, naast het OV kun je met deze pas ook dingen kopen in de supermarkt. Handig!
 

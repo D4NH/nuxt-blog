@@ -12,7 +12,7 @@ What to do what to do... dachten we na ons ontbijt. Maar Hamamatsucho & Ginza i
 
 Eerst Pebble geupdate naar firmware 2.5 en de Domo-kun Watchface ingesteld. Vet cool of niet dan!
 
-![10700487_806092736118373_2027448999458131566_o](https://www.danhnguyen.nl/wp-content/uploads/10700487_806092736118373_2027448999458131566_o-1024x259.jpg){.img-fluid .rounded-3}
+![](https://www.danhnguyen.nl/wp-content/uploads/10700487_806092736118373_2027448999458131566_o-1024x259.jpg){.img-fluid .rounded-3}
 
 Pokemon Center je weeeeeet! Wel klein tho.. Maar in Osaka is de grootste van de wereld. Volgende week dan maar xD
 
@@ -39,7 +39,9 @@ Helemaal Zen.
 
 Toch best cool dat er tempels zijn midden in een grote stad.
 
-![DSC03362](https://www.danhnguyen.nl/wp-content/uploads/DSC03362-575x1024.jpg){.img-fluid .rounded-3} ![](https://www.danhnguyen.nl/wp-content/uploads/IMG_3706-576x1024.jpg){.img-fluid .rounded-3}
+![DSC03362](https://www.danhnguyen.nl/wp-content/uploads/DSC03362-575x1024.jpg){.img-fluid .rounded-3}
+
+![](https://www.danhnguyen.nl/wp-content/uploads/IMG_3706-576x1024.jpg){.img-fluid .rounded-3}
 
 Tokyo tower!
 

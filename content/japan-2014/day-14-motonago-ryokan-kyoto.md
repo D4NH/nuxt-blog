@@ -42,7 +42,9 @@ Mini hotpot.
 
 ![DSC04054](https://www.danhnguyen.nl/wp-content/uploads/DSC04054-1024x575.jpg){.img-fluid .rounded-3}
 
-Mini hotpot met ei! ![DSC04061](https://www.danhnguyen.nl/wp-content/uploads/DSC04061-1024x575.jpg){.img-fluid .rounded-3}
+Mini hotpot met ei!
+
+![DSC04061](https://www.danhnguyen.nl/wp-content/uploads/DSC04061-1024x575.jpg){.img-fluid .rounded-3}
 
 Super lekkere Tempura, nog deel van het hoofdgerecht.
 

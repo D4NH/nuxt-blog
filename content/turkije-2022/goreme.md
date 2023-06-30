@@ -32,21 +32,29 @@ Bizar!
 Rest van de dag zijn we rond gaan touren. Verschillende plekken bezocht en genieten van het uitzicht.
 
 ![](https://www.danhnguyen.nl/wp-content/uploads/20221001_112654.jpg){.img-fluid .rounded-3}
+
 ![](https://www.danhnguyen.nl/wp-content/uploads/20221001_110237.jpg){.img-fluid .rounded-3}
+
 ![](https://www.danhnguyen.nl/wp-content/uploads/20221001_140037.jpg){.img-fluid .rounded-3}
 
 We dalen af naar de Ilhara Vallei.
 
 ![](https://www.danhnguyen.nl/wp-content/uploads/20221001_140843.jpg){.img-fluid .rounded-3}
+
 ![](https://www.danhnguyen.nl/wp-content/uploads/20221001_142047.jpg){.img-fluid .rounded-3}
+
 ![](https://www.danhnguyen.nl/wp-content/uploads/20221001_142319.jpg){.img-fluid .rounded-3}
+
 ![](https://www.danhnguyen.nl/wp-content/uploads/20221001_143657.jpg){.img-fluid .rounded-3}
+
 ![](https://www.danhnguyen.nl/wp-content/uploads/20221001_161901.jpg){.img-fluid .rounded-3}
 
 Op naar de Selime Kathedraal.
 
 ![](https://www.danhnguyen.nl/wp-content/uploads/20221001_162943.jpg){.img-fluid .rounded-3}
+
 ![](https://www.danhnguyen.nl/wp-content/uploads/20221001_163952.jpg){.img-fluid .rounded-3}
+
 ![](https://www.danhnguyen.nl/wp-content/uploads/20221001_194332.jpg){.img-fluid .rounded-3}
 
 Tijd voor avondeten!
@@ -56,16 +64,21 @@ Tijd voor avondeten!
 In de vroege ochtend de berg opgegaan om de luchtbalonnen als eerste te zien opstijgen.
 
 ![](https://www.danhnguyen.nl/wp-content/uploads/20221002_061835.jpg){.img-fluid .rounded-3}
+
 ![](https://www.danhnguyen.nl/wp-content/uploads/20221002_063435.jpg){.img-fluid .rounded-3}
+
 ![](https://www.danhnguyen.nl/wp-content/uploads/20221002_063816.jpg){.img-fluid .rounded-3}
+
 ![](https://www.danhnguyen.nl/wp-content/uploads/20221002_064819.jpg){.img-fluid .rounded-3}
 
 Met zonsopgang!
 
 ![](https://www.danhnguyen.nl/wp-content/uploads/20221002_070713.jpg){.img-fluid .rounded-3}
+
 ![](https://www.danhnguyen.nl/wp-content/uploads/20221003_102819.jpg){.img-fluid .rounded-3}
 
 En weer rond touren.
 
 ![](https://www.danhnguyen.nl/wp-content/uploads/20221003_111035.jpg){.img-fluid .rounded-3}
+
 ![](https://www.danhnguyen.nl/wp-content/uploads/20221003_114856.jpg){.img-fluid .rounded-3}

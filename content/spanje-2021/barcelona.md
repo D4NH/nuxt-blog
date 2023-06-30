@@ -28,9 +28,13 @@ Wandelen door de straten van Barcelona, zoekende naar ons hotel.
 Ingecheckt en wel, nu lekker de struinen door de markten
 
 ![](https://www.danhnguyen.nl/wp-content/uploads/20211214_093637.jpeg){.img-fluid .rounded-3}
+
 ![](https://www.danhnguyen.nl/wp-content/uploads/20211214_093830.jpeg){.img-fluid .rounded-3}
+
 ![](https://www.danhnguyen.nl/wp-content/uploads/20211214_093849.jpg){.img-fluid .rounded-3}
+
 ![](https://www.danhnguyen.nl/wp-content/uploads/20211214_095330.jpeg){.img-fluid .rounded-3}
+
 ![](https://www.danhnguyen.nl/wp-content/uploads/20211216_150601.jpg){.img-fluid .rounded-3}
 
 Nog even snel lunchen
@@ -40,7 +44,9 @@ Nog even snel lunchen
 We bezoeken de Montserrat berg. Eenmaal boven krijg je de bijzonder landschap te zien.
 
 ![](https://www.danhnguyen.nl/wp-content/uploads/20211215_123146.jpeg){.img-fluid .rounded-3}
+
 ![](https://www.danhnguyen.nl/wp-content/uploads/20211215_123111.jpeg){.img-fluid .rounded-3}
+
 ![](https://www.danhnguyen.nl/wp-content/uploads/20211215_154702.jpg){.img-fluid .rounded-3}
 
 Een lunch mag natuurlijk niet ontbreken.
@@ -54,6 +60,7 @@ We pakken nog even Park Guell mee.
 De reis sluiten we af met heerlijke tapas!
 
 ![](https://www.danhnguyen.nl/wp-content/uploads/20211216_200813.jpg){.img-fluid .rounded-3}
+
 ![](https://www.danhnguyen.nl/wp-content/uploads/20211217_131143.jpeg){.img-fluid .rounded-3}
 
 En weer terug naar Nederland, eerst nog genieten in de lounge van Barcelona.

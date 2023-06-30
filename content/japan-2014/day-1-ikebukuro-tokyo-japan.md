@@ -25,7 +25,9 @@ Teveel keuze bij een vending machine. Uiteindelijk toch maar een supermarkt in g
 
 Even de arcade hallen in. 1 Woord, echt too awesome!!! Hier zal ik vaker te vinden zijn.
 
-![2014-09-15 22.32.28](https://www.danhnguyen.nl/wp-content/uploads/2014-09-15-22.32.28-1024x768.jpg){.img-fluid .rounded-3} ![](https://www.danhnguyen.nl/wp-content/uploads/DSC03105-1024x575.jpg){.img-fluid .rounded-3}
+![2014-09-15 22.32.28](https://www.danhnguyen.nl/wp-content/uploads/2014-09-15-22.32.28-1024x768.jpg){.img-fluid .rounded-3}
+
+![](https://www.danhnguyen.nl/wp-content/uploads/DSC03105-1024x575.jpg){.img-fluid .rounded-3}
 
 Al helemaal door Initial D, spel is gewoon super vet. Lekker driften je weeeeeeet en onze personal passes!
 

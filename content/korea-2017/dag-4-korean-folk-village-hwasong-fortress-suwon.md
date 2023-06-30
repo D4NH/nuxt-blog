@@ -122,9 +122,9 @@ Markthal, maar dan beter xD
 
 ![](https://www.danhnguyen.nl/wp-content/uploads/AC657DE4-529C-4289-AC87-1D0883D1A2BD-700x394.jpg){.img-fluid .rounded-3}
 
-Gekozen voor boneless chiken en gimbap.
+Gekozen voor boneless chicken en gimbap.
 
 ![](https://www.danhnguyen.nl/wp-content/uploads/19898956-D9B1-485E-B9B7-DA491BA5BF49-700x394.jpg){.img-fluid .rounded-3}
 
-Daarmee sluiten we de acond dan ook af. Het is 20:30, terug naar het hotel.
+Daarmee sluiten we de avond dan ook af. Het is 20:30, terug naar het hotel.
 Morgen vroeg vertrekken we naar Gjeongju.

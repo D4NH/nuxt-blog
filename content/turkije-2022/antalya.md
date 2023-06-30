@@ -27,9 +27,13 @@ Deze is denk ik niet meer in gebruik.. of toch wel?
 En we gaan door! Verschillende shots van bezienswaardigheden.
 
 ![](https://www.danhnguyen.nl/wp-content/uploads/20221006_122100.jpg){.img-fluid .rounded-3}
+
 ![](https://www.danhnguyen.nl/wp-content/uploads/20221006_140903.jpg){.img-fluid .rounded-3}
+
 ![](https://www.danhnguyen.nl/wp-content/uploads/20221006_135907.jpg){.img-fluid .rounded-3}
+
 ![](https://www.danhnguyen.nl/wp-content/uploads/20221006_135431.jpg){.img-fluid .rounded-3}
+
 ![](https://www.danhnguyen.nl/wp-content/uploads/20221006_184805.jpg){.img-fluid .rounded-3}
 
 Terug naar het hotel. Even relaxen bij het zwembad.
@@ -39,16 +43,19 @@ Terug naar het hotel. Even relaxen bij het zwembad.
 Nieuwe dag, even de omgeving bekennen en dan richting de Mall!
 
 ![](https://www.danhnguyen.nl/wp-content/uploads/20221007_122025.jpg){.img-fluid .rounded-3}
+
 ![](https://www.danhnguyen.nl/wp-content/uploads/20221007_132523.jpg){.img-fluid .rounded-3}
 
 Foodcourt!
 
 ![](https://www.danhnguyen.nl/wp-content/uploads/20221007_153350.jpg){.img-fluid .rounded-3}
+
 ![](https://www.danhnguyen.nl/wp-content/uploads/20221008_072151.jpg){.img-fluid .rounded-3}
 
 Op naar de boot, strandje opzoeken.
 
 ![](https://www.danhnguyen.nl/wp-content/uploads/20221008_102252.jpg){.img-fluid .rounded-3}
+
 ![](https://www.danhnguyen.nl/wp-content/uploads/20221008_104355.jpg){.img-fluid .rounded-3}
 
 Best wel trots op deze foto.
@@ -58,6 +65,7 @@ Best wel trots op deze foto.
 Kan er maar niet aan wennen. Stranden met mini steentjes. Liever zacht zand!
 
 ![](https://www.danhnguyen.nl/wp-content/uploads/20221009_100659.jpg){.img-fluid .rounded-3}
+
 ![](https://www.danhnguyen.nl/wp-content/uploads/20221009_113542.jpg){.img-fluid .rounded-3}
 
 Snel nog een andere Mall bezocht. Klaar om door te gaan naar Istanbul.
