@@ -71,7 +71,7 @@ useHead({
 
             <ContentList>
                 <template #default>
-                    <div class="row justify-content-center">
+                    <div class="row justify-content-start">
                         <div
                             v-for="post in postsWithIntro"
                             :key="post.title"
