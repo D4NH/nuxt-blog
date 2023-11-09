@@ -1,9 +1,10 @@
 <script setup>
 import Intro from '../components/intro.vue';
 
-const allPosts = await useAsyncData(() =>
+const allPosts = await useAsyncData('blog', () =>
     queryContent('/').sort({ date: -1 }).find()
 );
+
 const postsWithIntro = computed(() =>
     allPosts.data.value.filter((value) => value.intro)
 );
