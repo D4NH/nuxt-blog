@@ -37,23 +37,27 @@ useHead({
             <li class="list-inline-item">
                 <fa-icon
                     class="mr-1"
-                    :icon="['fas', 'envelope-open-text']"
+                    :icon="['fab', 'github']"
                 />
-                nguyen.dtd@gmail.com
+                <a
+                    href="https://github.com/D4NH?tab=repositories"
+                    target="_blank"
+                    class="pr-5"
+                >
+                    GitHub
+                </a>
             </li>
             <li class="list-inline-item px-2">
                 <fa-icon
                     class="mr-1"
-                    :icon="['fas', 'birthday-cake']"
+                    :icon="['fab', 'instagram']"
                 />
-                {{ formatDate('1987-02-27') }}
-            </li>
-            <li class="list-inline-item">
-                <fa-icon
-                    class="mr-1"
-                    :icon="['fas', 'map-marker-alt']"
-                />
-                Capelle aan den IJssel
+                <a
+                    href="https://www.instagram.com/danhnguyen_nl"
+                    target="_blank"
+                >
+                    Instagram
+                </a>
             </li>
         </ul>
 

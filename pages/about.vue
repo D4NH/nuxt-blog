@@ -4,36 +4,56 @@ import Intro from '../components/intro.vue';
 useHead({
     title: 'Over mij | Danh Nguyen'
 });
+
+const formatDate = (date) => {
+    const newDate = new Date(date);
+    return new Intl.DateTimeFormat('nl-NL', {
+        year: 'numeric',
+        month: 'long',
+        day: '2-digit',
+        hour12: false
+    }).format(newDate);
+};
 </script>
 
 <template>
     <Intro img="/img/overmij.jpg">
         <h1 class="fs-4">Over mij</h1>
+        <p>
+            Frontend Developer bij
+            <NuxtLink to="https://www.zilverenkruis.nl/">
+                Zilveren Kruis
+            </NuxtLink>
+        </p>
+
+        <ul class="list--info list-inline my-4">
+            <li class="list-inline-item">
+                <fa-icon
+                    class="mr-1"
+                    :icon="['fas', 'envelope-open-text']"
+                />
+                nguyen.dtd@gmail.com
+            </li>
+            <li class="list-inline-item px-2">
+                <fa-icon
+                    class="mr-1"
+                    :icon="['fas', 'birthday-cake']"
+                />
+                {{ formatDate('1987-02-27') }}
+            </li>
+            <li class="list-inline-item">
+                <fa-icon
+                    class="mr-1"
+                    :icon="['fas', 'map-marker-alt']"
+                />
+                Capelle aan den IJssel
+            </li>
+        </ul>
         <p class="w-75 mx-auto mt-4 mb-0">
             Mijn naam is Danh (Jan) Nguyen. Ik ben Frontend Developer en dit is
             mijn portfolio. Ik hou mij bezig met het omzetten van grafische
             ontwerpen naar volledig functionele websites welke geschikt zijn
-            voor mobiele en desktop apparaten. Ik ben verder te vinden op
-            <a
-                href="https:/www.facebook.com/nguyendtd"
-                target="_blank"
-            >
-                Facebook
-            </a>
-            ,
-            <a
-                href="https://www.instagram.com/danhnguyen_nl"
-                target="_blank"
-            >
-                Instagram
-            </a>
-            en
-            <a
-                href="https://twitter.com/nguyendanh_/"
-                target="_blank"
-            >
-                Twitter
-            </a>
+            voor mobiele en desktop apparaten.
         </p>
     </Intro>
 
@@ -60,7 +80,12 @@ useHead({
                         <p class="mb-0">Projecten</p>
                         <ul>
                             <li>Websight</li>
-                            <li>Logius</li>
+                            <li>
+                                Logius -
+                                <a href="https://mijn.overheid.nl">
+                                    mijn.overheid.nl
+                                </a>
+                            </li>
                         </ul>
                     </div>
                     <span>2016 - 2020</span>

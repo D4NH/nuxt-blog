@@ -8,6 +8,10 @@ export default defineNuxtConfig({
         '@fortawesome/fontawesome-svg-core/styles.css',
         '~/assets/styles/app.scss'
     ],
+    image: {
+        domains: ['https://www.danhnguyen.nl'],
+        format: ['webp']
+    },
     modules: [
         '@nuxt/image',
         '@nuxt/content',
