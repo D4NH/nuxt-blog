@@ -8,6 +8,10 @@
                     <NuxtImg
                         format="webp"
                         loading="lazy"
+                        quality="75"
+                        :placeholder="[100, 100]"
+                        width="100"
+                        height="100"
                         class="avatar shadow-sm mb-3"
                         src="/img/profile.jpg"
                     />

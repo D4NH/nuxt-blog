@@ -11,7 +11,12 @@
                 <div class="ms-auto">
                     <ul class="navbar-nav">
                         <li class="nav-item">
-                            <NuxtLink to="/about/"> Over mij </NuxtLink>
+                            <NuxtLink
+                                class="nav-link"
+                                to="/about/"
+                            >
+                                Over mij
+                            </NuxtLink>
                         </li>
                     </ul>
                 </div>

@@ -3,14 +3,17 @@ import Intro from '../../components/intro.vue';
 
 const route = useRoute();
 
-const { data: allPosts } = await useAsyncData('posts', async () =>
-    queryContent(`/${route.params.slug[0]}`).sort({ date: -1 }).find()
+const { data: allPosts } = await useAsyncData('posts', () =>
+    queryContent(`/${route.params.slug[0]}`)
+        .without(['body'])
+        .sort({ date: -1 })
+        .find()
 );
-const { data: currentPost } = await useAsyncData('current-post', async () =>
+const { data: currentPost } = await useAsyncData('current-post', () =>
     queryContent(`/${route.params.slug[0]}/${route.params.slug[1]}`).findOne()
 );
 const [prev, next] = await queryContent()
-    .only(['_path', 'title', 'excerpt', 'category', 'date'])
+    .without(['body'])
     .sort({ date: 1 })
     .findSurround(`/${route.params.slug[0]}/${route.params.slug[1]}`);
 
@@ -99,6 +102,7 @@ const formatDate = (date) => {
             <ContentList
                 v-if="route.params.slug.length === 1"
                 v-slot="{ list }"
+                :query="{ path: '/', without: 'body' }"
                 :path="`/${route.params.slug[0]}`"
                 :sort="{
                     date: 1
@@ -114,6 +118,10 @@ const formatDate = (date) => {
                             <NuxtImg
                                 format="webp"
                                 loading="lazy"
+                                quality="75"
+                                :placeholder="[270, 200]"
+                                width="270"
+                                height="200"
                                 :src="post.image"
                                 class="post-image shadow-sm img-fluid rounded-3 mb-3 mb-sm-0"
                                 alt=""
@@ -126,7 +134,7 @@ const formatDate = (date) => {
                         <NuxtLink :to="`/blog${post._path}`">
                             <h3 class="fs-5 post-title">{{ post.title }}</h3>
                         </NuxtLink>
-                        <p>{{ post.excerpt }}</p>
+                        <p class="truncate">{{ post.description }}</p>
                         <span class="mt-auto line"></span>
                         <p class="post-date mb-0 fw-bold text-body-secondary">
                             <fa-icon
@@ -139,13 +147,15 @@ const formatDate = (date) => {
                 </div>
             </ContentList>
 
-            <ContentRenderer
+            <ContentDoc
                 v-else
-                :value="currentPost"
+                v-slot="{ doc }"
+                :path="`/${route.params.slug[0]}/${route.params.slug[1]}`"
             >
-                <ContentRendererMarkdown
+                <ContentRenderer
                     class="blog-content"
-                    :value="currentPost"
+                    :value="doc"
+                    :query="{ without: 'body' }"
                 />
 
                 <hr class="my-5" />
@@ -170,7 +180,9 @@ const formatDate = (date) => {
                                 />
                                 {{ prev.category }}
                             </p>
-                            <p class="post-intro mt-2">{{ prev.excerpt }}</p>
+                            <p class="post-intro truncate-sm mt-2">
+                                {{ prev.description }}
+                            </p>
 
                             <span class="mt-auto line" />
                             <p
@@ -203,7 +215,9 @@ const formatDate = (date) => {
                                 />
                                 {{ next.category }}
                             </p>
-                            <p class="post-intro mt-2">{{ next.excerpt }}</p>
+                            <p class="post-intro truncate-sm mt-2">
+                                {{ next.description }}
+                            </p>
 
                             <span class="mt-auto line" />
                             <p
@@ -218,7 +232,7 @@ const formatDate = (date) => {
                         </div>
                     </div>
                 </div>
-            </ContentRenderer>
+            </ContentDoc>
         </div>
     </div>
 </template>
@@ -273,6 +287,17 @@ const formatDate = (date) => {
         .post-image {
             width: 100%;
         }
+    }
+}
+
+.truncate {
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+
+    &-sm {
+        -webkit-line-clamp: 1;
     }
 }
 </style>

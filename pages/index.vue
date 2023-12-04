@@ -1,12 +1,15 @@
 <script setup>
 import Intro from '../components/intro.vue';
 
-const allPosts = await useAsyncData('blog', () =>
-    queryContent('/').sort({ date: -1 }).find()
+const { data: allPosts } = await useAsyncData('blog', () =>
+    queryContent('/')
+        .only(['title', 'date', 'image', 'category', 'intro', '_dir'])
+        .sort({ date: -1 })
+        .find()
 );
 
 const postsWithIntro = computed(() =>
-    allPosts.data.value.filter((value) => value.intro)
+    allPosts.value.filter((value) => value.intro)
 );
 
 const formatDate = (date) => {
@@ -86,6 +89,10 @@ useHead({
                                 <NuxtImg
                                     format="webp"
                                     loading="lazy"
+                                    :placeholder="[416, 200]"
+                                    width="416"
+                                    height="200"
+                                    quality="75"
                                     :src="post.image"
                                     class="post-image shadow-sm img-fluid rounded-3 mb-3"
                                     alt=""

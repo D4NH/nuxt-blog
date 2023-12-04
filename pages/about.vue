@@ -1,10 +1,6 @@
 <script setup>
 import Intro from '../components/intro.vue';
 
-useHead({
-    title: 'Over mij | Danh Nguyen'
-});
-
 const formatDate = (date) => {
     const newDate = new Date(date);
     return new Intl.DateTimeFormat('nl-NL', {
@@ -14,6 +10,10 @@ const formatDate = (date) => {
         hour12: false
     }).format(newDate);
 };
+
+useHead({
+    title: 'Over mij | Danh Nguyen'
+});
 </script>
 
 <template>
