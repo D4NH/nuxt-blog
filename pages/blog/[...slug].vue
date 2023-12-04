@@ -12,6 +12,9 @@ const { data: allPosts } = await useAsyncData('posts', () =>
 const { data: currentPost } = await useAsyncData('current-post', () =>
     queryContent(`/${route.params.slug[0]}/${route.params.slug[1]}`).findOne()
 );
+
+console.log('allPosts', allPosts);
+
 const [prev, next] = await queryContent()
     .without(['body'])
     .sort({ date: 1 })
@@ -102,7 +105,7 @@ const formatDate = (date) => {
             <ContentList
                 v-if="route.params.slug.length === 1"
                 v-slot="{ list }"
-                :query="{ path: '/', without: 'body' }"
+                :query="{ path: '/', without: ['body'] }"
                 :path="`/${route.params.slug[0]}`"
                 :sort="{
                     date: 1
@@ -118,7 +121,7 @@ const formatDate = (date) => {
                             <NuxtImg
                                 format="webp"
                                 loading="lazy"
-                                quality="75"
+                                quality="80"
                                 :placeholder="[270, 200]"
                                 width="270"
                                 height="200"
@@ -155,7 +158,7 @@ const formatDate = (date) => {
                 <ContentRenderer
                     class="blog-content"
                     :value="doc"
-                    :query="{ without: 'body' }"
+                    :query="{ without: ['body'] }"
                 />
 
                 <hr class="my-5" />

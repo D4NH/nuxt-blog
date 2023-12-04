@@ -62,16 +62,6 @@ a {
 }
 
 .post {
-    &-image {
-        object-fit: cover;
-        height: 200px;
-        width: 100%;
-
-        /* @media screen and (max-width: 640px) {
-        margin-bottom: 15px;
-    } */
-    }
-
     &-title {
         color: #88c441;
     }

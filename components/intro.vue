@@ -8,7 +8,7 @@
                     <NuxtImg
                         format="webp"
                         loading="lazy"
-                        quality="75"
+                        quality="80"
                         :placeholder="[100, 100]"
                         width="100"
                         height="100"

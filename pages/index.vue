@@ -92,7 +92,7 @@ useHead({
                                     :placeholder="[416, 200]"
                                     width="416"
                                     height="200"
-                                    quality="75"
+                                    quality="80"
                                     :src="post.image"
                                     class="post-image shadow-sm img-fluid rounded-3 mb-3"
                                     alt=""
@@ -131,4 +131,15 @@ useHead({
     </div>
 </template>
 
-<style lang="scss" scoped></style>
+<style lang="scss" scoped>
+.post {
+    &-image {
+        object-fit: cover;
+        width: 100%;
+
+        /* @media screen and (max-width: 640px) {
+            margin-bottom: 15px;
+        } */
+    }
+}
+</style>
