@@ -3,7 +3,7 @@ title: "I wanna go back! Mata ne, Japan!"
 date: "2014-10-04"
 image: "https://www.danhnguyen.nl/wp-content/uploads/DSC02980.jpg"
 category: Tokyo, Kyoto, Osaka - Japan
-excerpt: Super mega ultra cool vet! Dat was mijn vakantie in Tokyo, Kyoto en Osaka, Japan. Ongelooflijk hoe zo'n land kan...
+description: Super mega ultra cool vet! Dat was mijn vakantie in Tokyo, Kyoto en Osaka, Japan. Ongelooflijk hoe zo'n land kan...
 ---
 
 Super mega ultra cool vet! Dat was mijn vakantie in Tokyo, Kyoto en Osaka, Japan. Ongelooflijk hoe zo'n land kan bestaan. Het is zo anders dan Nederland of Vietnam.

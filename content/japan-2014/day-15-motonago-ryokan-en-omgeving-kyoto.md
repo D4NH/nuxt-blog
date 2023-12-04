@@ -3,71 +3,71 @@ title: 'Day 15 - Motonago Ryokan en omgeving, Kyoto'
 date: '2014-09-29'
 image: 'https://www.danhnguyen.nl/wp-content/uploads/DSC04149.jpg'
 category: Tokyo, Kyoto, Osaka - Japan
-excerpt: Misschien was het bad om 7u toch te vroeg. xD Oh well, daarna werd ons super deluxe ontbijt in onze kamer...
+description: Misschien was het bad om 7u toch te vroeg. xD Oh well, daarna werd ons super deluxe ontbijt in onze kamer...
 ---
 
 Misschien was het bad om 7u toch te vroeg. xD Oh well, daarna werd ons super deluxe ontbijt in onze kamer geserveerd.
 
-![DSC04119](https://www.danhnguyen.nl/wp-content/uploads/DSC04119-1024x575.jpg){.img-fluid .rounded-3}
+![DSC04119](https://www.danhnguyen.nl/wp-content/uploads/DSC04119-1024x575.jpg){.img-fluid .rounded-3 .shadow-sm}
 
 Woah hotpot!
 
-![DSC04121](https://www.danhnguyen.nl/wp-content/uploads/DSC04121-1024x575.jpg){.img-fluid .rounded-3}
+![DSC04121](https://www.danhnguyen.nl/wp-content/uploads/DSC04121-1024x575.jpg){.img-fluid .rounded-3 .shadow-sm}
 
 Nog lekkere dishes erbij.
 
-![DSC04122](https://www.danhnguyen.nl/wp-content/uploads/DSC04122-1024x575.jpg){.img-fluid .rounded-3}
+![DSC04122](https://www.danhnguyen.nl/wp-content/uploads/DSC04122-1024x575.jpg){.img-fluid .rounded-3 .shadow-sm}
 
 Oh.. tofu..
 
-![DSC04138](https://www.danhnguyen.nl/wp-content/uploads/DSC04138-1024x575.jpg){.img-fluid .rounded-3}
+![DSC04138](https://www.danhnguyen.nl/wp-content/uploads/DSC04138-1024x575.jpg){.img-fluid .rounded-3 .shadow-sm}
 
 Time to stroll around.
 
-![DSC04149](https://www.danhnguyen.nl/wp-content/uploads/DSC04149-1024x575.jpg){.img-fluid .rounded-3}
+![DSC04149](https://www.danhnguyen.nl/wp-content/uploads/DSC04149-1024x575.jpg){.img-fluid .rounded-3 .shadow-sm}
 
 Omg zo vet en zo groot!
 
-![DSC04162](https://www.danhnguyen.nl/wp-content/uploads/DSC04162-1024x575.jpg){.img-fluid .rounded-3}
+![DSC04162](https://www.danhnguyen.nl/wp-content/uploads/DSC04162-1024x575.jpg){.img-fluid .rounded-3 .shadow-sm}
 
 Even de handjes wassen.
 
-![DSC04181](https://www.danhnguyen.nl/wp-content/uploads/DSC04181-1024x575.jpg){.img-fluid .rounded-3}
+![DSC04181](https://www.danhnguyen.nl/wp-content/uploads/DSC04181-1024x575.jpg){.img-fluid .rounded-3 .shadow-sm}
 
 Zoveel mini boeddha's!
 
-![DSC04193](https://www.danhnguyen.nl/wp-content/uploads/DSC04193-1024x575.jpg){.img-fluid .rounded-3}
+![DSC04193](https://www.danhnguyen.nl/wp-content/uploads/DSC04193-1024x575.jpg){.img-fluid .rounded-3 .shadow-sm}
 
 Erm [dit](http://en.wikipedia.org/wiki/Prayer_wheel) dus.
 
-![DSC04203](https://www.danhnguyen.nl/wp-content/uploads/DSC04203-1024x575.jpg){.img-fluid .rounded-3}
+![DSC04203](https://www.danhnguyen.nl/wp-content/uploads/DSC04203-1024x575.jpg){.img-fluid .rounded-3 .shadow-sm}
 
 Dikke Nissan GT-R jongeeee!
 
-![DSC04204](https://www.danhnguyen.nl/wp-content/uploads/DSC04204-1024x575.jpg){.img-fluid .rounded-3}
+![DSC04204](https://www.danhnguyen.nl/wp-content/uploads/DSC04204-1024x575.jpg){.img-fluid .rounded-3 .shadow-sm}
 
 Mini tempel!
 
-![DSC04213](https://www.danhnguyen.nl/wp-content/uploads/DSC04213-575x1024.jpg){.img-fluid .rounded-3}
+![DSC04213](https://www.danhnguyen.nl/wp-content/uploads/DSC04213-575x1024.jpg){.img-fluid .rounded-3 .shadow-sm}
 
 Wuuuut? xD
 
-![DSC04223](https://www.danhnguyen.nl/wp-content/uploads/DSC04223-1024x575.jpg){.img-fluid .rounded-3}
+![DSC04223](https://www.danhnguyen.nl/wp-content/uploads/DSC04223-1024x575.jpg){.img-fluid .rounded-3 .shadow-sm}
 
 Even lekker lunchen.
 
-![DSC04224](https://www.danhnguyen.nl/wp-content/uploads/DSC04224-1024x575.jpg){.img-fluid .rounded-3}
+![DSC04224](https://www.danhnguyen.nl/wp-content/uploads/DSC04224-1024x575.jpg){.img-fluid .rounded-3 .shadow-sm}
 
 Lunch dish number 2.
 
-![DSC04227](https://www.danhnguyen.nl/wp-content/uploads/DSC04227-1024x575.jpg){.img-fluid .rounded-3}
+![DSC04227](https://www.danhnguyen.nl/wp-content/uploads/DSC04227-1024x575.jpg){.img-fluid .rounded-3 .shadow-sm}
 
 Deze Koi karpers zijn super groot!
 
-![DSC04228](https://www.danhnguyen.nl/wp-content/uploads/DSC04228-1024x575.jpg){.img-fluid .rounded-3}
+![DSC04228](https://www.danhnguyen.nl/wp-content/uploads/DSC04228-1024x575.jpg){.img-fluid .rounded-3 .shadow-sm}
 
 Super lekker tussendoortje. Green Tea jelly met rode bonen pasta en ijs. Hierna zijn we naar ons appartement gegaan en die's kleeeeeeeeein!
 
-![2014-09-28 (2)](https://www.danhnguyen.nl/wp-content/uploads/2014-09-28-2-1024x576.jpg){.img-fluid .rounded-3}
+![2014-09-28 (2)](https://www.danhnguyen.nl/wp-content/uploads/2014-09-28-2-1024x576.jpg){.img-fluid .rounded-3 .shadow-sm}
 
 Zo klein dus xD

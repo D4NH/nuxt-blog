@@ -4,12 +4,12 @@ date: '2017-07-26'
 image: 'https://www.danhnguyen.nl/wp-content/uploads/header-schiphol.jpg'
 category: Seoul, Jeju Island - Zuid Korea
 intro: In de zomer van 2017 lekker naar Azie. Dit keer Zuid-Korea!! We gaan door verschillende streken zoals Gyeonggi, Gangwon en Gyeongbuk.
-excerpt: Woaw wat een periode. In korte tijd een nieuwe woning gevonden. Alles verhuisd, maar gelukkig klaar voor de grote vakantie! Alles is ingepakt en klaar om te gaan. Dit keer met 2 backpacks ipv grote koffers!
+description: Woaw wat een periode. In korte tijd een nieuwe woning gevonden. Alles verhuisd, maar gelukkig klaar voor de grote vakantie! Alles is ingepakt en klaar om te gaan. Dit keer met 2 backpacks ipv grote koffers!
 ---
 
 Woaw wat een periode. In korte tijd een nieuwe woning gevonden. Alles verhuisd, maar gelukkig klaar voor de grote vakantie! Alles is ingepakt en klaar om te gaan. Dit keer met 2 backpacks ipv grote koffers!
 
-![](https://www.danhnguyen.nl/wp-content/uploads/IMG_20170726_111523-700x394.jpg){.img-fluid .rounded-3}
+![](https://www.danhnguyen.nl/wp-content/uploads/IMG_20170726_111523-700x394.jpg){.img-fluid .rounded-3 .shadow-sm}
 
 Hieronder een overzicht wat we allemaal kunnen gaan bezoeken:
 
@@ -56,6 +56,6 @@ Tevens vliegen we dit keer met Lufthansa, helaas niet online kunnen inchecken.. 
 
 Gezien de drukte maar op tijd vertrekken!
 
-![](https://www.danhnguyen.nl/wp-content/uploads/IMG_20170726_195456-700x394.jpg){.img-fluid .rounded-3}
+![](https://www.danhnguyen.nl/wp-content/uploads/IMG_20170726_195456-700x394.jpg){.img-fluid .rounded-3 .shadow-sm}
 
 Doei!
