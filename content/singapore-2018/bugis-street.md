@@ -9,24 +9,24 @@ category: Marina Bay Sands, Bugis Street - Singapore
 
 Op zoek naar eten.. en natuurlijk genieten van het uitzicht...
 
-![](https://www.danhnguyen.nl/wp-content/uploads/20181124_071736-700x394.jpg){.img-fluid .rounded-3 .shadow-sm}
+![](https://www.danhnguyen.nl/wp-content/uploads/20181124_071736-700x394.jpg)
 
-![](https://www.danhnguyen.nl/wp-content/uploads/DSC05166-700x394.jpg){.img-fluid .rounded-3 .shadow-sm}
+![](https://www.danhnguyen.nl/wp-content/uploads/DSC05166-700x394.jpg)
 
-![](https://www.danhnguyen.nl/wp-content/uploads/DSC05168-700x394.jpg){.img-fluid .rounded-3 .shadow-sm}
+![](https://www.danhnguyen.nl/wp-content/uploads/DSC05168-700x394.jpg)
 
-![](https://www.danhnguyen.nl/wp-content/uploads/DSC05173-700x394.jpg){.img-fluid .rounded-3 .shadow-sm}
+![](https://www.danhnguyen.nl/wp-content/uploads/DSC05173-700x394.jpg)
 
-![](https://www.danhnguyen.nl/wp-content/uploads/DSC05174-700x394.jpg){.img-fluid .rounded-3 .shadow-sm}
+![](https://www.danhnguyen.nl/wp-content/uploads/DSC05174-700x394.jpg)
 
-![](https://www.danhnguyen.nl/wp-content/uploads/DSC05176-700x394.jpg){.img-fluid .rounded-3 .shadow-sm}
+![](https://www.danhnguyen.nl/wp-content/uploads/DSC05176-700x394.jpg)
 
-![](https://www.danhnguyen.nl/wp-content/uploads/DSC05177-700x394.jpg){.img-fluid .rounded-3 .shadow-sm}
+![](https://www.danhnguyen.nl/wp-content/uploads/DSC05177-700x394.jpg)
 
-![](https://www.danhnguyen.nl/wp-content/uploads/DSC05181-700x394.jpg){.img-fluid .rounded-3 .shadow-sm}
+![](https://www.danhnguyen.nl/wp-content/uploads/DSC05181-700x394.jpg)
 
-![](https://www.danhnguyen.nl/wp-content/uploads/DSC05178-700x394.jpg){.img-fluid .rounded-3 .shadow-sm}
+![](https://www.danhnguyen.nl/wp-content/uploads/DSC05178-700x394.jpg)
 
-![](https://www.danhnguyen.nl/wp-content/uploads/DSC05184-700x394.jpg){.img-fluid .rounded-3 .shadow-sm}
+![](https://www.danhnguyen.nl/wp-content/uploads/DSC05184-700x394.jpg)
 
-![](https://www.danhnguyen.nl/wp-content/uploads/DSC05187-700x394.jpg){.img-fluid .rounded-3 .shadow-sm}
+![](https://www.danhnguyen.nl/wp-content/uploads/DSC05187-700x394.jpg)

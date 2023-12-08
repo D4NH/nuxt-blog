@@ -13,14 +13,14 @@ Voordeel als je een vriendin hebt die tour guide is geweest in Indonesie. Zo wee
 
 Hieronder vind je een overzicht van wat we denken te gaan spenderen en yep eten is belangrijk!
 
-![budget Indonesia](https://www.danhnguyen.nl/wp-content/uploads/Untitled-1.jpg){.img-fluid .rounded-3 .shadow-sm}
+![budget Indonesia](https://www.danhnguyen.nl/wp-content/uploads/Untitled-1.jpg)
 
 De vliegtuigmaatschappij waar we mee vliegen is Garuda Indonesia. First Class Service! Wij vliegen in iedergeval gewoon Economy Class. Maar dat is ook goed!
 
-![Java & Bali Island](https://www.danhnguyen.nl/wp-content/uploads/Screen-Shot-2015-10-09-at-10.52.13.png){.img-fluid .rounded-3 .shadow-sm}
+![Java & Bali Island](https://www.danhnguyen.nl/wp-content/uploads/Screen-Shot-2015-10-09-at-10.52.13.png)
 
 We beginnen op het eiland van Java waar we landen in Jakarta. Gedurende drie weken trekken we door naar het oosten waar we uiteindelijk eindigen op Bali.
 
-![20151010_120433](https://www.danhnguyen.nl/wp-content/uploads/20151010_120433-1024x576.jpg){.img-fluid .rounded-3 .shadow-sm}
+![20151010_120433](https://www.danhnguyen.nl/wp-content/uploads/20151010_120433-1024x576.jpg)
 
 Hier nog een beeld van de koffers. Mag je raden bij wie welke koffer hoort xD

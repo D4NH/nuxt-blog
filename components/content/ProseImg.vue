@@ -11,7 +11,7 @@ defineProps(['imgSrc']);
         width="700"
         height="525"
         quality="80"
-        class="post-image shadow-sm img-fluid rounded-3 mb-3"
+        class="post-image shadow-sm img-fluid rounded-3"
         alt=""
     />
 </template>
