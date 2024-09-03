@@ -66,8 +66,28 @@ useHead({
                     class="list-group-item d-flex justify-content-between align-items-start"
                 >
                     <div class="ms-2 me-auto">
-                        <div class="fw-bold">Zilveren Kruis</div>
-                        Frontend Developer
+                        <div class="fw-bold">Achmea - Zilveren Kruis</div>
+                        <p class="mb-0">Frontend Developer</p>
+                        <small class="d-block mb-2">Vue</small>
+                        <p class="mb-0">Projecten</p>
+                        <ul>
+                            <li>
+                                Homepage -
+                                <a
+                                    href="https://www.zilverenkruis.nl/consumenten"
+                                >
+                                    zilverenkruis.nl
+                                </a>
+                            </li>
+                            <li>
+                                Salesfunnel -
+                                <a
+                                    href="https://www.zilverenkruis.nl/consumenten/zorgverzekering/premie-berekenen"
+                                >
+                                    premie-berekenen
+                                </a>
+                            </li>
+                        </ul>
                     </div>
                     <span>2020 - heden</span>
                 </li>
@@ -76,7 +96,8 @@ useHead({
                 >
                     <div class="ms-2 me-auto">
                         <div class="fw-bold">Developers</div>
-                        <p>Frontend Developer</p>
+                        <p class="mb-0">Frontend Developer</p>
+                        <small class="d-block mb-2">React & Vue</small>
                         <p class="mb-0">Projecten</p>
                         <ul>
                             <li>Websight</li>
@@ -95,7 +116,8 @@ useHead({
                 >
                     <div class="ms-2 me-auto">
                         <div class="fw-bold">Luminis</div>
-                        <p>Frontend Developer</p>
+                        <p class="mb-0">Frontend Developer</p>
+                        <small class="d-block mb-2">AngularJS</small>
                         <p class="mb-0">Projecten</p>
                         <ul>
                             <li>Rabobank</li>
@@ -111,7 +133,8 @@ useHead({
                 >
                     <div class="ms-2 me-auto">
                         <div class="fw-bold">Essent</div>
-                        Frontend Developer & Webmaster
+                        <p class="mb-0">Frontend Developer & Webmaster</p>
+                        <small>JQuery</small>
                     </div>
                     <span>2012 - 2014</span>
                 </li>
@@ -122,7 +145,8 @@ useHead({
                         <div class="fw-bold">
                             Hogeschool van Arnhem en Nijmegen
                         </div>
-                        Interaction Designer
+                        <p class="mb-0">Interaction Designer</p>
+                        <small>Adobe Suite</small>
                     </div>
                     <span>2011 - 2012</span>
                 </li>
@@ -131,7 +155,8 @@ useHead({
                 >
                     <div class="ms-2 me-auto">
                         <div class="fw-bold">LUKKIEN</div>
-                        Trainee Interactive
+                        <p class="mb-0">Trainee Interactive</p>
+                        <small>Adobe Suite</small>
                     </div>
                     <span>2010 - 2011</span>
                 </li>
@@ -140,7 +165,8 @@ useHead({
                 >
                     <div class="ms-2 me-auto">
                         <div class="fw-bold">Philips</div>
-                        Online Service Expert
+                        <p class="mb-0">Online Service Expert</p>
+                        <small>HTML, CSS & Javascript</small>
                     </div>
                     <span>2007 - 2011</span>
                 </li>
@@ -176,7 +202,7 @@ useHead({
                 >
                     <div class="ms-2 me-auto">
                         <div class="fw-bold">Valuas College</div>
-                        Administratie
+                        Administratie & Economie
                     </div>
 
                     <span>2002</span>

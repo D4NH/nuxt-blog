@@ -1,11 +1,10 @@
 <script setup>
 import Intro from '../components/intro.vue';
-import Carousel from '../components/content/Carousel.vue';
 
 const { data: allPosts } = await useAsyncData('blog', () =>
     queryContent('/')
-        .only(['title', 'date', 'images', 'category', 'intro'])
-        .where({ date: { $gt: '2024-01-01' } })
+        .only(['title', 'date', 'image', 'category', 'intro', '_dir'])
+        .where({ date: { $lt: '2024-01-01' } })
         .sort({ date: -1 })
         .find()
 );
@@ -25,7 +24,7 @@ const formatDate = (date) => {
 };
 
 useHead({
-    title: 'Danh Nguyen | Frontend Developer'
+    title: 'Reizen | Danh Nguyen'
 });
 </script>
 
@@ -66,18 +65,11 @@ useHead({
                 </a>
             </li>
         </ul>
-
-        <p class="w-75 mx-auto mb-0">
-            Ik hou van de laatste gadgets en wil ze dan ook graag altijd
-            uitproberen. In mijn vrijetijd speel ik badminton, games en lees ik
-            japanse manga's. Verder hou ik van reizen die je op deze pagina kan
-            vinden.
-        </p>
     </Intro>
 
     <div class="row justify-content-center">
         <div class="col-md-8">
-            <h2 class="text-center mb-5 fs-5 fw-medium">Recente reizen</h2>
+            <h2 class="text-center mb-5 fs-5 fw-medium">Reizen</h2>
 
             <ContentList>
                 <template #default>
@@ -85,9 +77,46 @@ useHead({
                         <div
                             v-for="post in postsWithIntro"
                             :key="post.title"
-                            class="d-flex flex-column mb-3"
+                            class="col-sm-6 d-flex flex-column mb-5"
                         >
-                            <Carousel :data="post" />
+                            <NuxtLink :to="`/blog/${post._dir}`">
+                                <NuxtImg
+                                    format="webp"
+                                    loading="lazy"
+                                    :placeholder="[416, 200]"
+                                    width="416"
+                                    height="200"
+                                    quality="80"
+                                    :src="post.image"
+                                    class="post-image shadow-sm img-fluid rounded-3 mb-3"
+                                    alt=""
+                                />
+                                <h3 class="fs-5 post-title">
+                                    {{ post.category.split('-')[0] }}
+                                </h3>
+                            </NuxtLink>
+
+                            <p
+                                class="post-category fw-bold text-uppercase text-body-secondary my-2"
+                            >
+                                <fa-icon
+                                    class="mr-1"
+                                    :icon="['fas', 'map-marker-alt']"
+                                />
+                                {{ post.category.split('-')[1] }}
+                            </p>
+                            <p class="post-intro mt-2">{{ post.intro }}</p>
+
+                            <span class="mt-auto line" />
+                            <p
+                                class="post-date mb-0 fw-bold text-body-secondary"
+                            >
+                                <fa-icon
+                                    class="mr-1"
+                                    :icon="['far', 'calendar']"
+                                />
+                                {{ formatDate(post.date) }}
+                            </p>
                         </div>
                     </div>
                 </template>
