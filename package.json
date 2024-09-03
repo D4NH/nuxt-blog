@@ -4,7 +4,8 @@
     "scripts": {
         "build": "nuxt build",
         "dev": "nuxt dev",
-        "deploy": "nuxt generate && touch .output/public/.nojekyll && gh-pages --dotfiles -d .output/public -b master --repo https://github.com/D4NH/d4nh.github.io.git",
+        "predeploy": "nuxt generate && touch .output/public/.nojekyll",
+        "deploy": "gh-pages --dotfiles -d .output/public -b master --repo https://github.com/D4NH/d4nh.github.io.git",
         "generate": "nuxt generate",
         "preview": "nuxt preview",
         "postinstall": "nuxt prepare"
