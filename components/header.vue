@@ -18,6 +18,14 @@
                                 Over mij
                             </NuxtLink>
                         </li>
+                        <li class="nav-item">
+                            <NuxtLink
+                                class="nav-link"
+                                to="/reizen/"
+                            >
+                                Reizen
+                            </NuxtLink>
+                        </li>
                     </ul>
                 </div>
             </nav>
