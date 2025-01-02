@@ -39,7 +39,7 @@ const pageTitle = computed(() => {
 const formatDate = (date) => {
     if (!date) return;
     const newDate = new Date(date);
-    return new Intl.DateTimeFormat('nl-NL', {
+    return new Intl.DateTimeFormat('en-GB', {
         year: 'numeric',
         month: 'long',
         day: '2-digit',
@@ -123,7 +123,7 @@ const formatDate = (date) => {
                                 width="420"
                                 height="200"
                                 :src="post.image"
-                                class="post-image shadow-sm img-fluid rounded-3 mb-3 mb-sm-0"
+                                class="post-image shadow-sm img-fluid rounded-3 mb-3 mb-sm-0 w-100"
                                 alt=""
                             />
                         </NuxtLink>

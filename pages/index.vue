@@ -14,16 +14,6 @@ const postsWithIntro = computed(() =>
     allPosts.value.filter((value) => value.intro)
 );
 
-const formatDate = (date) => {
-    const newDate = new Date(date);
-    return new Intl.DateTimeFormat('nl-NL', {
-        year: 'numeric',
-        month: 'long',
-        day: '2-digit',
-        hour12: false
-    }).format(newDate);
-};
-
 useHead({
     title: 'Danh Nguyen | Frontend Developer'
 });
@@ -33,7 +23,7 @@ useHead({
     <Intro>
         <h1 class="fs-4">Danh Nguyen</h1>
         <p>
-            Frontend Developer bij
+            Frontend Developer at
             <NuxtLink to="https://www.zilverenkruis.nl/">
                 Zilveren Kruis
             </NuxtLink>
@@ -68,16 +58,16 @@ useHead({
         </ul>
 
         <p class="w-75 mx-auto mb-0">
-            Ik hou van de laatste gadgets en wil ze dan ook graag altijd
-            uitproberen. In mijn vrijetijd speel ik badminton, games en lees ik
-            japanse manga's. Verder hou ik van reizen die je op deze pagina kan
-            vinden.
+            I'm a tech enthusiast with a passion for the latest gadgets and
+            cutting-edge web technologies. When I'm not coding or building
+            websites, you'll find me playing badminton, gaming, traveling or
+            diving into Japanese manga.
         </p>
     </Intro>
 
     <div class="row justify-content-center">
         <div class="col-md-8">
-            <h2 class="text-center mb-5 fs-5 fw-medium">Recente reizen</h2>
+            <h2 class="text-center mb-5 fs-5 fw-medium">Recent travels</h2>
 
             <ContentList>
                 <template #default>
@@ -101,10 +91,6 @@ useHead({
     &-image {
         object-fit: cover;
         width: 100%;
-
-        /* @media screen and (max-width: 640px) {
-            margin-bottom: 15px;
-        } */
     }
 }
 </style>

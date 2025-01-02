@@ -15,15 +15,15 @@
                                 class="nav-link"
                                 to="/about/"
                             >
-                                Over mij
+                                About me
                             </NuxtLink>
                         </li>
                         <li class="nav-item">
                             <NuxtLink
                                 class="nav-link"
-                                to="/reizen/"
+                                to="/travel/"
                             >
-                                Reizen
+                                Travel
                             </NuxtLink>
                         </li>
                     </ul>
@@ -34,4 +34,14 @@
     </div>
 </template>
 
-<style lang="scss" scoped></style>
+<style lang="scss" scoped>
+.navbar-expand-lg {
+    .navbar-nav {
+        flex-direction: row;
+        .nav-link {
+            padding-right: var(--bs-navbar-nav-link-padding-x);
+            padding-left: var(--bs-navbar-nav-link-padding-x);
+        }
+    }
+}
+</style>

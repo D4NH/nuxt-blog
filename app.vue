@@ -68,7 +68,6 @@ a {
 
     &-category {
         font-size: 0.75rem;
-        // letter-spacing: 0.5px;
     }
 
     &-intro {
@@ -80,9 +79,7 @@ a {
 
     &-date {
         font-size: 0.65rem;
-        // letter-spacing: 0.5px;
         text-transform: uppercase;
-        // font-weight: bold;
     }
 
     &-content {
