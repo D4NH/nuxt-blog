@@ -1,32 +1,66 @@
-<script setup>
+<script setup lang="ts">
 import Intro from '../components/intro.vue';
 import Carousel from '../components/content/Carousel.vue';
 
 const { data: allPosts } = await useAsyncData('blog', () =>
     queryContent('/')
         .only(['title', 'date', 'images', 'category', 'intro'])
-        .where({ date: { $gt: '2024-01-01' } })
         .sort({ date: -1 })
         .find()
 );
 
+const postsAfterDate = computed(() => {
+    if (!allPosts.value) return [];
+
+    const cutoffDate = new Date('2024-01-01');
+
+    return allPosts.value.filter((post) => {
+        if (!post.date) return false; // Handle missing dates
+
+        try {
+            const postDate = new Date(post.date);
+            return postDate >= cutoffDate;
+        } catch (error) {
+            console.error(`Invalid date format: ${post.date}`, error);
+            return false; // Handle invalid date formats
+        }
+    });
+});
+
 const postsWithIntro = computed(() =>
-    allPosts.value.filter((value) => value.intro)
+    postsAfterDate.value.filter((value) => value.intro)
 );
 
 const { data: archivedPosts } = await useAsyncData('archive', () =>
     queryContent('/')
         .only(['title', 'date', 'image', 'category', 'intro', '_dir'])
-        .where({ date: { $lt: '2024-01-01' } })
         .sort({ date: -1 })
         .find()
 );
 
+const postsBeforeDate = computed(() => {
+    if (!archivedPosts.value) return [];
+
+    const cutoffDate = new Date('2024-01-01');
+
+    return archivedPosts.value.filter((post) => {
+        if (!post.date) return false; // Handle missing dates
+
+        try {
+            const postDate = new Date(post.date);
+            return postDate < cutoffDate;
+        } catch (error) {
+            console.error(`Invalid date format: ${post.date}`, error);
+            return false; // Handle invalid date formats
+        }
+    });
+});
+
 const archivedPostsWithIntro = computed(() =>
-    archivedPosts.value.filter((value) => value.intro)
+    postsBeforeDate.value.filter((value) => value.intro)
 );
 
-const formatDate = (date) => {
+const formatDate = (date: string) => {
     const newDate = new Date(date);
     return new Intl.DateTimeFormat('en-GB', {
         year: 'numeric',
