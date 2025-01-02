@@ -30,19 +30,6 @@ useHead({
         </p>
 
         <ul class="list--info list-inline my-4">
-            <li class="list-inline-item">
-                <fa-icon
-                    class="mr-1"
-                    :icon="['fab', 'github']"
-                />
-                <a
-                    href="https://github.com/D4NH?tab=repositories"
-                    target="_blank"
-                    class="pr-5"
-                >
-                    GitHub
-                </a>
-            </li>
             <li class="list-inline-item px-2">
                 <fa-icon
                     class="mr-1"
@@ -70,17 +57,15 @@ useHead({
             <h2 class="text-center mb-5 fs-5 fw-medium">Recent travels</h2>
 
             <ContentList>
-                <template #default>
-                    <div class="row justify-content-start">
-                        <div
-                            v-for="post in postsWithIntro"
-                            :key="post.title"
-                            class="d-flex flex-column mb-3"
-                        >
-                            <Carousel :data="post" />
-                        </div>
+                <div class="row justify-content-start">
+                    <div
+                        v-for="post in postsWithIntro"
+                        :key="post.title"
+                        class="d-flex flex-column mb-3"
+                    >
+                        <Carousel :data="post" />
                     </div>
-                </template>
+                </div>
             </ContentList>
         </div>
     </div>
