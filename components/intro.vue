@@ -17,6 +17,13 @@
                     />
                 </div>
 
+                <slot name="title"></slot>
+                <p>
+                    Frontend Developer at
+                    <NuxtLink to="https://www.zilverenkruis.nl/">
+                        Zilveren Kruis
+                    </NuxtLink>
+                </p>
                 <slot></slot>
             </div>
         </div>

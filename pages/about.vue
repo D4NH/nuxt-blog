@@ -18,13 +18,9 @@ useHead({
 
 <template>
     <Intro img="/img/overmij.jpg">
-        <h1 class="fs-4">About me</h1>
-        <p>
-            Frontend Developer at
-            <NuxtLink to="https://www.zilverenkruis.nl/">
-                Zilveren Kruis
-            </NuxtLink>
-        </p>
+        <template #title>
+            <h1 class="fs-4">About me</h1>
+        </template>
 
         <ul class="list--info list-inline my-4">
             <li class="list-inline-item px-1">

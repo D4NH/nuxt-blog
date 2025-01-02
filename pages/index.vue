@@ -2,34 +2,22 @@
 import Intro from '../components/intro.vue';
 import Carousel from '../components/content/Carousel.vue';
 
+const cutoffDate = new Date('2024-01-01');
+
 const { data: allPosts } = await useAsyncData('blog', () =>
     queryContent('/')
         .only(['title', 'date', 'images', 'category', 'intro'])
         .sort({ date: -1 })
+        .limit(3)
         .find()
 );
 
-const postsAfterDate = computed(() => {
+const postsWithIntro = computed(() => {
     if (!allPosts.value) return [];
-
-    const cutoffDate = new Date('2024-01-01');
-
-    return allPosts.value.filter((post) => {
-        if (!post.date) return false; // Handle missing dates
-
-        try {
-            const postDate = new Date(post.date);
-            return postDate >= cutoffDate;
-        } catch (error) {
-            console.error(`Invalid date format: ${post.date}`, error);
-            return false; // Handle invalid date formats
-        }
-    });
+    return allPosts.value.filter(
+        (post) => post.date && new Date(post.date) >= cutoffDate && post.intro
+    );
 });
-
-const postsWithIntro = computed(() =>
-    postsAfterDate.value.filter((value) => value.intro)
-);
 
 useHead({
     title: 'Danh Nguyen | Frontend Developer'
@@ -38,13 +26,9 @@ useHead({
 
 <template>
     <Intro>
-        <h1 class="fs-4">Danh Nguyen</h1>
-        <p>
-            Frontend Developer at
-            <NuxtLink to="https://www.zilverenkruis.nl/">
-                Zilveren Kruis
-            </NuxtLink>
-        </p>
+        <template #title>
+            <h1 class="fs-4">Danh Nguyen</h1>
+        </template>
 
         <ul class="list--info list-inline my-4">
             <li class="list-inline-item px-2">

@@ -2,6 +2,8 @@
 import Intro from '../components/intro.vue';
 import Carousel from '../components/content/Carousel.vue';
 
+const cutoffDate = new Date('2024-01-01');
+
 const { data: allPosts } = await useAsyncData('blog', () =>
     queryContent('/')
         .only(['title', 'date', 'images', 'category', 'intro'])
@@ -9,27 +11,12 @@ const { data: allPosts } = await useAsyncData('blog', () =>
         .find()
 );
 
-const postsAfterDate = computed(() => {
+const postsWithIntro = computed(() => {
     if (!allPosts.value) return [];
-
-    const cutoffDate = new Date('2024-01-01');
-
-    return allPosts.value.filter((post) => {
-        if (!post.date) return false; // Handle missing dates
-
-        try {
-            const postDate = new Date(post.date);
-            return postDate >= cutoffDate;
-        } catch (error) {
-            console.error(`Invalid date format: ${post.date}`, error);
-            return false; // Handle invalid date formats
-        }
-    });
+    return allPosts.value.filter(
+        (post) => post.date && new Date(post.date) >= cutoffDate && post.intro
+    );
 });
-
-const postsWithIntro = computed(() =>
-    postsAfterDate.value.filter((value) => value.intro)
-);
 
 const { data: archivedPosts } = await useAsyncData('archive', () =>
     queryContent('/')
@@ -38,27 +25,12 @@ const { data: archivedPosts } = await useAsyncData('archive', () =>
         .find()
 );
 
-const postsBeforeDate = computed(() => {
+const archivedPostsWithIntro = computed(() => {
     if (!archivedPosts.value) return [];
-
-    const cutoffDate = new Date('2024-01-01');
-
-    return archivedPosts.value.filter((post) => {
-        if (!post.date) return false; // Handle missing dates
-
-        try {
-            const postDate = new Date(post.date);
-            return postDate < cutoffDate;
-        } catch (error) {
-            console.error(`Invalid date format: ${post.date}`, error);
-            return false; // Handle invalid date formats
-        }
-    });
+    return archivedPosts.value.filter(
+        (post) => post.date && new Date(post.date) < cutoffDate && post.intro
+    );
 });
-
-const archivedPostsWithIntro = computed(() =>
-    postsBeforeDate.value.filter((value) => value.intro)
-);
 
 const formatDate = (date: string) => {
     const newDate = new Date(date);
@@ -77,13 +49,9 @@ useHead({
 
 <template>
     <Intro>
-        <h1 class="fs-4">Travel</h1>
-        <p>
-            Frontend Developer at
-            <NuxtLink to="https://www.zilverenkruis.nl/">
-                Zilveren Kruis
-            </NuxtLink>
-        </p>
+        <template #title>
+            <h1 class="fs-4">Travel</h1>
+        </template>
 
         <ul class="list--info list-inline my-4">
             <li class="list-inline-item px-2">
@@ -113,70 +81,64 @@ useHead({
             <h2 class="text-center mb-5 fs-5 fw-medium">Trips</h2>
 
             <ContentList>
-                <template #default>
-                    <div class="row justify-content-start">
-                        <div
-                            v-for="post in postsWithIntro"
-                            :key="post.title"
-                            class="d-flex flex-column mb-3"
-                        >
-                            <Carousel :data="post" />
-                        </div>
+                <div class="row justify-content-start">
+                    <div
+                        v-for="post in postsWithIntro"
+                        :key="post.title"
+                        class="d-flex flex-column mb-3"
+                    >
+                        <Carousel :data="post" />
                     </div>
-                </template>
+                </div>
             </ContentList>
 
             <h2 class="text-center mb-5 fs-5 fw-medium">Archive</h2>
 
             <ContentList>
-                <template #default>
-                    <div class="row justify-content-start">
-                        <div
-                            v-for="post in archivedPostsWithIntro"
-                            :key="post.title"
-                            class="col-sm-6 d-flex flex-column mb-5"
+                <div class="row justify-content-start">
+                    <div
+                        v-for="post in archivedPostsWithIntro"
+                        :key="post.title"
+                        class="col-sm-6 d-flex flex-column mb-5"
+                    >
+                        <NuxtLink :to="`/blog/${post._dir}`">
+                            <NuxtImg
+                                format="webp"
+                                loading="lazy"
+                                :placeholder="[416, 200]"
+                                width="416"
+                                height="200"
+                                quality="80"
+                                :src="post.image"
+                                class="post-image shadow-sm img-fluid rounded-3 mb-3"
+                                alt=""
+                            />
+                            <h3 class="fs-5 post-title">
+                                {{ post.category.split('-')[0] }}
+                            </h3>
+                        </NuxtLink>
+
+                        <p
+                            class="post-category fw-bold text-uppercase text-body-secondary my-2"
                         >
-                            <NuxtLink :to="`/blog/${post._dir}`">
-                                <NuxtImg
-                                    format="webp"
-                                    loading="lazy"
-                                    :placeholder="[416, 200]"
-                                    width="416"
-                                    height="200"
-                                    quality="80"
-                                    :src="post.image"
-                                    class="post-image shadow-sm img-fluid rounded-3 mb-3"
-                                    alt=""
-                                />
-                                <h3 class="fs-5 post-title">
-                                    {{ post.category.split('-')[0] }}
-                                </h3>
-                            </NuxtLink>
+                            <fa-icon
+                                class="mr-1"
+                                :icon="['fas', 'map-marker-alt']"
+                            />
+                            {{ post.category.split('-')[1] }}
+                        </p>
+                        <p class="post-intro mt-2">{{ post.intro }}</p>
 
-                            <p
-                                class="post-category fw-bold text-uppercase text-body-secondary my-2"
-                            >
-                                <fa-icon
-                                    class="mr-1"
-                                    :icon="['fas', 'map-marker-alt']"
-                                />
-                                {{ post.category.split('-')[1] }}
-                            </p>
-                            <p class="post-intro mt-2">{{ post.intro }}</p>
-
-                            <span class="mt-auto line" />
-                            <p
-                                class="post-date mb-0 fw-bold text-body-secondary"
-                            >
-                                <fa-icon
-                                    class="mr-1"
-                                    :icon="['far', 'calendar']"
-                                />
-                                {{ formatDate(post.date) }}
-                            </p>
-                        </div>
+                        <span class="mt-auto line" />
+                        <p class="post-date mb-0 fw-bold text-body-secondary">
+                            <fa-icon
+                                class="mr-1"
+                                :icon="['far', 'calendar']"
+                            />
+                            {{ formatDate(post.date) }}
+                        </p>
                     </div>
-                </template>
+                </div>
             </ContentList>
         </div>
     </div>
